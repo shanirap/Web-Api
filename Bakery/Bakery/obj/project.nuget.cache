@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ybRw6cU+kIA=",
+  "success": true,
+  "projectFilePath": "M:\\webApi\\Bakery\\Bakery\\Bakery.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\328308465\\.nuget\\packages\\zxcvbn-core\\7.0.92\\zxcvbn-core.7.0.92.nupkg.sha512"
+  ],
+  "logs": []
+}

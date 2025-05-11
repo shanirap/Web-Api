@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "M:\\webApi\\Bakery\\Bakery\\wwwroot\\Home.html",
+      "PackagePath": "staticwebassets\\Home.html"
+    },
+    {
+      "Id": "M:\\webApi\\Bakery\\Bakery\\wwwroot\\Home.js",
+      "PackagePath": "staticwebassets\\Home.js"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Bakery.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Bakery.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Bakery.props",
+      "PackagePath": "build\\Bakery.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Bakery.props",
+      "PackagePath": "buildMultiTargeting\\Bakery.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Bakery.props",
+      "PackagePath": "buildTransitive\\Bakery.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

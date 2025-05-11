@@ -1,0 +1,15 @@
+M:\webApi\Bakery\Repositories\bin\Debug\net9.0\Repositories.deps.json
+M:\webApi\Bakery\Repositories\bin\Debug\net9.0\Repositories.dll
+M:\webApi\Bakery\Repositories\bin\Debug\net9.0\Repositories.pdb
+M:\webApi\Bakery\Repositories\bin\Debug\net9.0\Entities.dll
+M:\webApi\Bakery\Repositories\bin\Debug\net9.0\Entities.pdb
+M:\webApi\Bakery\Repositories\obj\Debug\net9.0\Repositories.csproj.AssemblyReference.cache
+M:\webApi\Bakery\Repositories\obj\Debug\net9.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+M:\webApi\Bakery\Repositories\obj\Debug\net9.0\Repositories.AssemblyInfoInputs.cache
+M:\webApi\Bakery\Repositories\obj\Debug\net9.0\Repositories.AssemblyInfo.cs
+M:\webApi\Bakery\Repositories\obj\Debug\net9.0\Repositories.csproj.CoreCompileInputs.cache
+M:\webApi\Bakery\Repositories\obj\Debug\net9.0\Reposito.787EC4B2.Up2Date
+M:\webApi\Bakery\Repositories\obj\Debug\net9.0\Repositories.dll
+M:\webApi\Bakery\Repositories\obj\Debug\net9.0\refint\Repositories.dll
+M:\webApi\Bakery\Repositories\obj\Debug\net9.0\Repositories.pdb
+M:\webApi\Bakery\Repositories\obj\Debug\net9.0\ref\Repositories.dll

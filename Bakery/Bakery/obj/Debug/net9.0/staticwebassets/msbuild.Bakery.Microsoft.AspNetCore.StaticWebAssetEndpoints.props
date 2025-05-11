@@ -1,0 +1,28 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/Bakery/Home.8lo6gsli88.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Home.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8lo6gsli88"},{"Name":"integrity","Value":"sha256-BG5Ct6ByotT7g1wVXPyNcVGgb84yTkAu1JL4KQayqkw="},{"Name":"label","Value":"_content/Bakery/Home.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1276"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022BG5Ct6ByotT7g1wVXPyNcVGgb84yTkAu1JL4KQayqkw=\u0022"},{"Name":"Last-Modified","Value":"Wed, 23 Apr 2025 17:22:54 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Bakery/Home.hbvovjzh6i.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Home.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"hbvovjzh6i"},{"Name":"integrity","Value":"sha256-czCqzZ7AuzWqFGzWzcwNg5DimxrCxqoHcWcz0Dd5rjQ="},{"Name":"label","Value":"_content/Bakery/Home.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3059"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022czCqzZ7AuzWqFGzWzcwNg5DimxrCxqoHcWcz0Dd5rjQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 23 Apr 2025 17:28:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Bakery/Home.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Home.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-BG5Ct6ByotT7g1wVXPyNcVGgb84yTkAu1JL4KQayqkw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1276"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022BG5Ct6ByotT7g1wVXPyNcVGgb84yTkAu1JL4KQayqkw=\u0022"},{"Name":"Last-Modified","Value":"Wed, 23 Apr 2025 17:22:54 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Bakery/Home.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Home.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-czCqzZ7AuzWqFGzWzcwNg5DimxrCxqoHcWcz0Dd5rjQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3059"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022czCqzZ7AuzWqFGzWzcwNg5DimxrCxqoHcWcz0Dd5rjQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 23 Apr 2025 17:28:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

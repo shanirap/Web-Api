@@ -1,0 +1,11 @@
+M:\webApi\Bakery\Entities\bin\Debug\net9.0\Entities.deps.json
+M:\webApi\Bakery\Entities\bin\Debug\net9.0\Entities.dll
+M:\webApi\Bakery\Entities\bin\Debug\net9.0\Entities.pdb
+M:\webApi\Bakery\Entities\obj\Debug\net9.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+M:\webApi\Bakery\Entities\obj\Debug\net9.0\Entities.AssemblyInfoInputs.cache
+M:\webApi\Bakery\Entities\obj\Debug\net9.0\Entities.AssemblyInfo.cs
+M:\webApi\Bakery\Entities\obj\Debug\net9.0\Entities.csproj.CoreCompileInputs.cache
+M:\webApi\Bakery\Entities\obj\Debug\net9.0\Entities.dll
+M:\webApi\Bakery\Entities\obj\Debug\net9.0\refint\Entities.dll
+M:\webApi\Bakery\Entities\obj\Debug\net9.0\Entities.pdb
+M:\webApi\Bakery\Entities\obj\Debug\net9.0\ref\Entities.dll

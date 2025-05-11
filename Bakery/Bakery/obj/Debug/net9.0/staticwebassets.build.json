@@ -1,0 +1,702 @@
+{
+  "Version": 1,
+  "Hash": "k9p1/hH6kxg/ee+zNWGxdrBH1EfL2Yfh4pvmx8A/Bik=",
+  "Source": "Bakery",
+  "BasePath": "_content/Bakery",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Bakery\\wwwroot",
+      "Source": "Bakery",
+      "ContentRoot": "M:\\webApi\\Bakery\\Bakery\\wwwroot\\",
+      "BasePath": "_content/Bakery",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "M:\\webApi\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\jktenh644w-8lo6gsli88.gz",
+      "SourceId": "Bakery",
+      "SourceType": "Discovered",
+      "ContentRoot": "M:\\webApi\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Bakery",
+      "RelativePath": "Home#[.{fingerprint=8lo6gsli88}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "M:\\webApi\\Bakery\\Bakery\\wwwroot\\Home.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "pm7bbmkpgh",
+      "Integrity": "YX6RMK+1u8sng25ojdT9VEHW4t0beF+ln8KzX3VGBII=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "M:\\webApi\\Bakery\\Bakery\\wwwroot\\Home.html"
+    },
+    {
+      "Identity": "M:\\webApi\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\mr1y3e05c8-hbvovjzh6i.gz",
+      "SourceId": "Bakery",
+      "SourceType": "Discovered",
+      "ContentRoot": "M:\\webApi\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Bakery",
+      "RelativePath": "Home#[.{fingerprint=hbvovjzh6i}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "M:\\webApi\\Bakery\\Bakery\\wwwroot\\Home.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "5a1qed0bwk",
+      "Integrity": "/WqwGjW7uYNbqTC+duuqUsuO8+5e8ar8Lg2kHDWmYfI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "M:\\webApi\\Bakery\\Bakery\\wwwroot\\Home.js"
+    },
+    {
+      "Identity": "M:\\webApi\\Bakery\\Bakery\\wwwroot\\Home.html",
+      "SourceId": "Bakery",
+      "SourceType": "Discovered",
+      "ContentRoot": "M:\\webApi\\Bakery\\Bakery\\wwwroot\\",
+      "BasePath": "_content/Bakery",
+      "RelativePath": "Home#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8lo6gsli88",
+      "Integrity": "BG5Ct6ByotT7g1wVXPyNcVGgb84yTkAu1JL4KQayqkw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Home.html"
+    },
+    {
+      "Identity": "M:\\webApi\\Bakery\\Bakery\\wwwroot\\Home.js",
+      "SourceId": "Bakery",
+      "SourceType": "Discovered",
+      "ContentRoot": "M:\\webApi\\Bakery\\Bakery\\wwwroot\\",
+      "BasePath": "_content/Bakery",
+      "RelativePath": "Home#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hbvovjzh6i",
+      "Integrity": "czCqzZ7AuzWqFGzWzcwNg5DimxrCxqoHcWcz0Dd5rjQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Home.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Home.8lo6gsli88.html",
+      "AssetFile": "M:\\webApi\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\jktenh644w-8lo6gsli88.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002824858757"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "353"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YX6RMK+1u8sng25ojdT9VEHW4t0beF+ln8KzX3VGBII=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 17:22:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"BG5Ct6ByotT7g1wVXPyNcVGgb84yTkAu1JL4KQayqkw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8lo6gsli88"
+        },
+        {
+          "Name": "label",
+          "Value": "Home.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BG5Ct6ByotT7g1wVXPyNcVGgb84yTkAu1JL4KQayqkw="
+        }
+      ]
+    },
+    {
+      "Route": "Home.8lo6gsli88.html",
+      "AssetFile": "M:\\webApi\\Bakery\\Bakery\\wwwroot\\Home.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1276"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BG5Ct6ByotT7g1wVXPyNcVGgb84yTkAu1JL4KQayqkw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 17:22:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8lo6gsli88"
+        },
+        {
+          "Name": "label",
+          "Value": "Home.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BG5Ct6ByotT7g1wVXPyNcVGgb84yTkAu1JL4KQayqkw="
+        }
+      ]
+    },
+    {
+      "Route": "Home.8lo6gsli88.html.gz",
+      "AssetFile": "M:\\webApi\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\jktenh644w-8lo6gsli88.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "353"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YX6RMK+1u8sng25ojdT9VEHW4t0beF+ln8KzX3VGBII=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 17:22:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8lo6gsli88"
+        },
+        {
+          "Name": "label",
+          "Value": "Home.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YX6RMK+1u8sng25ojdT9VEHW4t0beF+ln8KzX3VGBII="
+        }
+      ]
+    },
+    {
+      "Route": "Home.hbvovjzh6i.js",
+      "AssetFile": "M:\\webApi\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\mr1y3e05c8-hbvovjzh6i.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001508295626"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "662"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/WqwGjW7uYNbqTC+duuqUsuO8+5e8ar8Lg2kHDWmYfI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 17:28:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"czCqzZ7AuzWqFGzWzcwNg5DimxrCxqoHcWcz0Dd5rjQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hbvovjzh6i"
+        },
+        {
+          "Name": "label",
+          "Value": "Home.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-czCqzZ7AuzWqFGzWzcwNg5DimxrCxqoHcWcz0Dd5rjQ="
+        }
+      ]
+    },
+    {
+      "Route": "Home.hbvovjzh6i.js",
+      "AssetFile": "M:\\webApi\\Bakery\\Bakery\\wwwroot\\Home.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3059"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"czCqzZ7AuzWqFGzWzcwNg5DimxrCxqoHcWcz0Dd5rjQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 17:28:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hbvovjzh6i"
+        },
+        {
+          "Name": "label",
+          "Value": "Home.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-czCqzZ7AuzWqFGzWzcwNg5DimxrCxqoHcWcz0Dd5rjQ="
+        }
+      ]
+    },
+    {
+      "Route": "Home.hbvovjzh6i.js.gz",
+      "AssetFile": "M:\\webApi\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\mr1y3e05c8-hbvovjzh6i.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "662"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/WqwGjW7uYNbqTC+duuqUsuO8+5e8ar8Lg2kHDWmYfI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 17:28:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hbvovjzh6i"
+        },
+        {
+          "Name": "label",
+          "Value": "Home.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/WqwGjW7uYNbqTC+duuqUsuO8+5e8ar8Lg2kHDWmYfI="
+        }
+      ]
+    },
+    {
+      "Route": "Home.html",
+      "AssetFile": "M:\\webApi\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\jktenh644w-8lo6gsli88.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002824858757"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "353"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YX6RMK+1u8sng25ojdT9VEHW4t0beF+ln8KzX3VGBII=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 17:22:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"BG5Ct6ByotT7g1wVXPyNcVGgb84yTkAu1JL4KQayqkw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BG5Ct6ByotT7g1wVXPyNcVGgb84yTkAu1JL4KQayqkw="
+        }
+      ]
+    },
+    {
+      "Route": "Home.html",
+      "AssetFile": "M:\\webApi\\Bakery\\Bakery\\wwwroot\\Home.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1276"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BG5Ct6ByotT7g1wVXPyNcVGgb84yTkAu1JL4KQayqkw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 17:22:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BG5Ct6ByotT7g1wVXPyNcVGgb84yTkAu1JL4KQayqkw="
+        }
+      ]
+    },
+    {
+      "Route": "Home.html.gz",
+      "AssetFile": "M:\\webApi\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\jktenh644w-8lo6gsli88.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "353"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YX6RMK+1u8sng25ojdT9VEHW4t0beF+ln8KzX3VGBII=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 17:22:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YX6RMK+1u8sng25ojdT9VEHW4t0beF+ln8KzX3VGBII="
+        }
+      ]
+    },
+    {
+      "Route": "Home.js",
+      "AssetFile": "M:\\webApi\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\mr1y3e05c8-hbvovjzh6i.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001508295626"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "662"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/WqwGjW7uYNbqTC+duuqUsuO8+5e8ar8Lg2kHDWmYfI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 17:28:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"czCqzZ7AuzWqFGzWzcwNg5DimxrCxqoHcWcz0Dd5rjQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-czCqzZ7AuzWqFGzWzcwNg5DimxrCxqoHcWcz0Dd5rjQ="
+        }
+      ]
+    },
+    {
+      "Route": "Home.js",
+      "AssetFile": "M:\\webApi\\Bakery\\Bakery\\wwwroot\\Home.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3059"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"czCqzZ7AuzWqFGzWzcwNg5DimxrCxqoHcWcz0Dd5rjQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 17:28:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-czCqzZ7AuzWqFGzWzcwNg5DimxrCxqoHcWcz0Dd5rjQ="
+        }
+      ]
+    },
+    {
+      "Route": "Home.js.gz",
+      "AssetFile": "M:\\webApi\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\mr1y3e05c8-hbvovjzh6i.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "662"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/WqwGjW7uYNbqTC+duuqUsuO8+5e8ar8Lg2kHDWmYfI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 17:28:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/WqwGjW7uYNbqTC+duuqUsuO8+5e8ar8Lg2kHDWmYfI="
+        }
+      ]
+    }
+  ]
+}
