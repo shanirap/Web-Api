@@ -11,23 +11,26 @@ using static System.Net.Mime.MediaTypeNames;
 
 namespace Services
 {
-    public class UserServices
+    public class UserServices : IUserServices
     {
-
-        UsersData usersData = new UsersData();
+        private readonly IUsersData usersData;
+        public UserServices(IUsersData _usersData)
+        {
+            usersData = _usersData;
+        }
 
         public int validatepasswordStrong(string password)
         {
-            var zxcvbnResult=Zxcvbn.Core.EvaluatePassword(password);
+            var zxcvbnResult = Zxcvbn.Core.EvaluatePassword(password);
             return zxcvbnResult.Score;
         }
-        public void register(User user)
+        public async Task register(User user)
         {
             try
             {
-                if (validatepasswordStrong(user.Password)>2)
+                if (validatepasswordStrong(user.Password) > 2)
                 {
-                    usersData.Register(user);
+                    await usersData.Register(user);
                 }
                 else
                 {
@@ -42,11 +45,11 @@ namespace Services
 
         }
 
-        public User login(LoginUser user)
+        public async Task<User> login(LoginUser user)
         {
             try
             {
-                User user1 = usersData.Login(user);
+                User user1 = await usersData.Login(user);
                 return user1;
             }
             catch (HttpStatusException e)
@@ -56,17 +59,27 @@ namespace Services
             }
         }
 
-        public void update(int id, User user)
+        public async Task update(int id, User user)
         {
             try
             {
-                usersData.Update(id, user);
+                await usersData.Update(id, user);
             }
             catch (HttpStatusException e)
             {
 
                 throw new HttpStatusException(e.StatusCode, e.Message);
             }
+        }
+
+        public async Task<User> getUserId(int id)
+        {
+            return await usersData.getUserId(id);
+        }
+
+        public async Task<List<User>> getUsers()
+        {
+            return await usersData.getUsers();
         }
     }
 }

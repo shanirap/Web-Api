@@ -12,33 +12,31 @@ namespace Bakery.Controllers
     [ApiController]
     public class UserController : ControllerBase
     {
-        UserServices userServices = new UserServices();
+        private readonly IUserServices userServices;
+        public UserController(IUserServices _userServices)
+        {
+            userServices = _userServices;
+        }
         // GET: api/<UserController>
         [HttpGet]
-        public IEnumerable<string> Get()
+        public async Task<ActionResult<List<User>>> Get()
         {
-            return new string[] { "value1", "value2" };
+            return await userServices.getUsers();
         }
 
         // GET api/<UserController>/5
         [HttpGet("{id}")]
-        public User Get(int id)
+        public async Task<ActionResult<User>> Get(int id)
         {
-            string path = Path.Combine(Directory.GetCurrentDirectory(), "users.txt");
-
-            using (StreamReader reader = System.IO.File.OpenText(path))
+             User user = await userServices.getUserId(id);
+            if(user!=null)
             {
-                string? currentUserInFile;
-                while ((currentUserInFile = reader.ReadLine()) != null)
-                {
-                    User user = JsonSerializer.Deserialize<User>(currentUserInFile);
-                    if (user.UserId == id)
-                        return user;
-                }
+                return Ok(User);
             }
-            return null; //write in c# code
-
-
+            else
+            {
+                return NoContent();
+            }
         }
         [HttpPost]
         [Route("checkPassword")]
@@ -50,129 +48,54 @@ namespace Bakery.Controllers
 
         [HttpPost]
         [Route("register")]
-        public ActionResult<User> Register([FromBody] User user)
+        public async Task<ActionResult<User>> Register([FromBody] User user)
         {
+            if (user is null)
+                return StatusCode(400, "user is required");
             try
             {
-                userServices.register(user);
-                return CreatedAtAction(nameof(Get), new { id = user.UserId }, user);
+                await userServices.register(user);
+                return CreatedAtAction(nameof(Get), new { id = user.Id }, user);
             }
-            catch(HttpStatusException e)
+            catch (HttpStatusException e)
             {
                 return StatusCode((int)e.StatusCode, e.Message);
             }
-            //string path = Path.Combine(Directory.GetCurrentDirectory(), "users.txt");
-            //using (StreamReader reader = System.IO.File.OpenText(path))
-            //{
-            //    string? currentUserInFile;
-            //    while ((currentUserInFile = reader.ReadLine()) != null)
-            //    {
-            //        User userFromFile = JsonSerializer.Deserialize<User>(currentUserInFile);
-
-            //        if (userFromFile.UserName == user.UserName)
-            //            return Conflict();
-                        
-            //    }
-            //}
-
-            //int numberOfUsers = System.IO.File.Exists(path) ? System.IO.File.ReadLines(path).Count() : 0;
-            //user.UserId = numberOfUsers + 1;
-            //string userJson = JsonSerializer.Serialize(user);
-            //System.IO.File.AppendAllText(path, userJson + Environment.NewLine);
-            //return CreatedAtAction(nameof(Get), new { id = user.UserId }, user);
+         
         }
 
 
         [HttpPost]
         [Route("login")]
-        public ActionResult<User> Login([FromBody] LoginUser loginUser)
+        public async Task<ActionResult<User>> Login([FromBody] LoginUser loginUser)
         {
             try
             {
-                User user = userServices.login(loginUser);
+                User user =await userServices.login(loginUser);
                 return Ok(user);
             }
              catch(HttpStatusException e)
             {
                 return StatusCode((int)e.StatusCode, e.Message);
             }
-            //string path = Path.Combine(Directory.GetCurrentDirectory(), "users.txt");
-            //using (StreamReader reader = System.IO.File.OpenText(path))
-            //{
-            //    string? currentUserInFile;
-            //    while ((currentUserInFile = reader.ReadLine()) != null)
-            //    {
-            //        User user = JsonSerializer.Deserialize<User>(currentUserInFile);
-
-            //        if (user.UserName == loginUser.UserName && user.Password == loginUser.Password) {
-            //            //return Ok(new { userId = user.UserId });
-            //            return Ok(user);
-            //        }
-            //    }
-            //}
-            //return Unauthorized("Incorrect userName or password");
-            //return Ok();
+         
         }
 
 
 
         // PUT api/<UserController>/5
         [HttpPut("{id}")]
-        public ActionResult<User> Put( int id, [FromBody]  User user)
+        public async Task<ActionResult<User>> Put( int id, [FromBody]  User user)
         {
             try
             {
-                userServices.update(id, user);
+                await userServices.update(id, user);
                 return Ok(user);
             }
             catch (HttpStatusException e)
             {
                 return StatusCode((int)e.StatusCode, e.Message);
             }
-
-            //User newUser = new Bakery.User();
-            ////User oldUser = Get(id);
-            //if (user.FirstName!=null)
-            //    newUser.FirstName = user.FirstName;
-            ////else
-            ////    newUser.FirstName = oldUser.FirstName;
-            //if (user.LastName != null)
-            //    newUser.LastName = user.LastName;
-            ////else
-            ////    newUser.LastName = oldUser.LastName;
-            //if (user.Password != null)
-            //    newUser.Password = user.Password;
-            ////else
-            ////    newUser.Password = oldUser.Password;
-            //if (user.UserName != null)
-            //    newUser.UserName = user.UserName;
-            ////else
-            ////    newUser.UserName = oldUser.UserName;
-            //newUser.UserId = id;
-
-
-
-            //string path = Path.Combine(Directory.GetCurrentDirectory(), "users.txt");
-
-            //string textToReplace = string.Empty;
-            //using (StreamReader reader = System.IO.File.OpenText(path))
-            //{
-            //    string currentUserInFile;
-            //    while ((currentUserInFile = reader.ReadLine()) != null)
-            //    {
-
-            //        User userFromFile = JsonSerializer.Deserialize<User>(currentUserInFile);
-            //        if (userFromFile.UserId == id)
-            //            textToReplace = currentUserInFile;
-            //    }
-            //}
-
-            //if (textToReplace != string.Empty)
-            //{
-            //    string text = System.IO.File.ReadAllText(path);
-            //    text = text.Replace(textToReplace, JsonSerializer.Serialize(newUser));
-            //    System.IO.File.WriteAllText(path, text);
-            //}
 
         }
 

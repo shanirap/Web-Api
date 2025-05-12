@@ -13,3 +13,19 @@ M:\webApi\Bakery\Repositories\obj\Debug\net9.0\Repositories.dll
 M:\webApi\Bakery\Repositories\obj\Debug\net9.0\refint\Repositories.dll
 M:\webApi\Bakery\Repositories\obj\Debug\net9.0\Repositories.pdb
 M:\webApi\Bakery\Repositories\obj\Debug\net9.0\ref\Repositories.dll
+M:\webApi-אלישבע ספראי\Bakery\Repositories\bin\Debug\net9.0\Repositories.deps.json
+M:\webApi-אלישבע ספראי\Bakery\Repositories\bin\Debug\net9.0\Repositories.dll
+M:\webApi-אלישבע ספראי\Bakery\Repositories\bin\Debug\net9.0\Repositories.pdb
+M:\webApi-אלישבע ספראי\Bakery\Repositories\bin\Debug\net9.0\Entities.dll
+M:\webApi-אלישבע ספראי\Bakery\Repositories\bin\Debug\net9.0\Entities.pdb
+M:\webApi-אלישבע ספראי\Bakery\Repositories\obj\Debug\net9.0\Repositories.csproj.AssemblyReference.cache
+M:\webApi-אלישבע ספראי\Bakery\Repositories\obj\Debug\net9.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+M:\webApi-אלישבע ספראי\Bakery\Repositories\obj\Debug\net9.0\Repositories.AssemblyInfoInputs.cache
+M:\webApi-אלישבע ספראי\Bakery\Repositories\obj\Debug\net9.0\Repositories.AssemblyInfo.cs
+M:\webApi-אלישבע ספראי\Bakery\Repositories\obj\Debug\net9.0\Repositories.csproj.CoreCompileInputs.cache
+M:\webApi-אלישבע ספראי\Bakery\Repositories\obj\Debug\net9.0\Repositories.sourcelink.json
+M:\webApi-אלישבע ספראי\Bakery\Repositories\obj\Debug\net9.0\Reposito.787EC4B2.Up2Date
+M:\webApi-אלישבע ספראי\Bakery\Repositories\obj\Debug\net9.0\Repositories.dll
+M:\webApi-אלישבע ספראי\Bakery\Repositories\obj\Debug\net9.0\refint\Repositories.dll
+M:\webApi-אלישבע ספראי\Bakery\Repositories\obj\Debug\net9.0\Repositories.pdb
+M:\webApi-אלישבע ספראי\Bakery\Repositories\obj\Debug\net9.0\ref\Repositories.dll

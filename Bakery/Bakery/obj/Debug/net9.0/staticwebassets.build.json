@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "k9p1/hH6kxg/ee+zNWGxdrBH1EfL2Yfh4pvmx8A/Bik=",
+  "Hash": "3hAy/DS+B7Cf6R5WBVosLMgvrMSu950PrstcBc5BkJo=",
   "Source": "Bakery",
   "BasePath": "_content/Bakery",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Bakery\\wwwroot",
       "Source": "Bakery",
-      "ContentRoot": "M:\\webApi\\Bakery\\Bakery\\wwwroot\\",
+      "ContentRoot": "M:\\webApi-אלישבע ספראי\\Bakery\\Bakery\\wwwroot\\",
       "BasePath": "_content/Bakery",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "M:\\webApi\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\jktenh644w-8lo6gsli88.gz",
+      "Identity": "M:\\webApi-אלישבע ספראי\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\jktenh644w-8lo6gsli88.gz",
       "SourceId": "Bakery",
       "SourceType": "Discovered",
-      "ContentRoot": "M:\\webApi\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "M:\\webApi-אלישבע ספראי\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Bakery",
       "RelativePath": "Home#[.{fingerprint=8lo6gsli88}]?.html.gz",
       "AssetKind": "All",
@@ -28,41 +28,41 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "M:\\webApi\\Bakery\\Bakery\\wwwroot\\Home.html",
+      "RelatedAsset": "M:\\webApi-אלישבע ספראי\\Bakery\\Bakery\\wwwroot\\Home.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "pm7bbmkpgh",
       "Integrity": "YX6RMK+1u8sng25ojdT9VEHW4t0beF+ln8KzX3VGBII=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "M:\\webApi\\Bakery\\Bakery\\wwwroot\\Home.html"
+      "OriginalItemSpec": "M:\\webApi-אלישבע ספראי\\Bakery\\Bakery\\wwwroot\\Home.html"
     },
     {
-      "Identity": "M:\\webApi\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\mr1y3e05c8-hbvovjzh6i.gz",
+      "Identity": "M:\\webApi-אלישבע ספראי\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\mr1y3e05c8-amf7inl30t.gz",
       "SourceId": "Bakery",
       "SourceType": "Discovered",
-      "ContentRoot": "M:\\webApi\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "M:\\webApi-אלישבע ספראי\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Bakery",
-      "RelativePath": "Home#[.{fingerprint=hbvovjzh6i}]?.js.gz",
+      "RelativePath": "Home#[.{fingerprint=amf7inl30t}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "M:\\webApi\\Bakery\\Bakery\\wwwroot\\Home.js",
+      "RelatedAsset": "M:\\webApi-אלישבע ספראי\\Bakery\\Bakery\\wwwroot\\Home.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "5a1qed0bwk",
-      "Integrity": "/WqwGjW7uYNbqTC+duuqUsuO8+5e8ar8Lg2kHDWmYfI=",
+      "Fingerprint": "ewpxgooi93",
+      "Integrity": "XnGQa9osyjMBIBou02Vc2hmc1I+DcWPRDJ89b2Q9XRQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "M:\\webApi\\Bakery\\Bakery\\wwwroot\\Home.js"
+      "OriginalItemSpec": "M:\\webApi-אלישבע ספראי\\Bakery\\Bakery\\wwwroot\\Home.js"
     },
     {
-      "Identity": "M:\\webApi\\Bakery\\Bakery\\wwwroot\\Home.html",
+      "Identity": "M:\\webApi-אלישבע ספראי\\Bakery\\Bakery\\wwwroot\\Home.html",
       "SourceId": "Bakery",
       "SourceType": "Discovered",
-      "ContentRoot": "M:\\webApi\\Bakery\\Bakery\\wwwroot\\",
+      "ContentRoot": "M:\\webApi-אלישבע ספראי\\Bakery\\Bakery\\wwwroot\\",
       "BasePath": "_content/Bakery",
       "RelativePath": "Home#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\Home.html"
     },
     {
-      "Identity": "M:\\webApi\\Bakery\\Bakery\\wwwroot\\Home.js",
+      "Identity": "M:\\webApi-אלישבע ספראי\\Bakery\\Bakery\\wwwroot\\Home.js",
       "SourceId": "Bakery",
       "SourceType": "Discovered",
-      "ContentRoot": "M:\\webApi\\Bakery\\Bakery\\wwwroot\\",
+      "ContentRoot": "M:\\webApi-אלישבע ספראי\\Bakery\\Bakery\\wwwroot\\",
       "BasePath": "_content/Bakery",
       "RelativePath": "Home#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -94,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "hbvovjzh6i",
-      "Integrity": "czCqzZ7AuzWqFGzWzcwNg5DimxrCxqoHcWcz0Dd5rjQ=",
+      "Fingerprint": "amf7inl30t",
+      "Integrity": "0mhSeLnx5i434tA1vKaPoNY8pexIhhUn0lWNn1ZbWkU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Home.js"
@@ -104,7 +104,7 @@
   "Endpoints": [
     {
       "Route": "Home.8lo6gsli88.html",
-      "AssetFile": "M:\\webApi\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\jktenh644w-8lo6gsli88.gz",
+      "AssetFile": "M:\\webApi-אלישבע ספראי\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\jktenh644w-8lo6gsli88.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -127,7 +127,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 17:22:54 GMT"
+          "Value": "Wed, 23 Apr 2025 17:36:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -167,7 +167,7 @@
     },
     {
       "Route": "Home.8lo6gsli88.html",
-      "AssetFile": "M:\\webApi\\Bakery\\Bakery\\wwwroot\\Home.html",
+      "AssetFile": "M:\\webApi-אלישבע ספראי\\Bakery\\Bakery\\wwwroot\\Home.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -188,7 +188,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 17:22:54 GMT"
+          "Value": "Wed, 23 Apr 2025 17:36:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -212,7 +212,7 @@
     },
     {
       "Route": "Home.8lo6gsli88.html.gz",
-      "AssetFile": "M:\\webApi\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\jktenh644w-8lo6gsli88.gz",
+      "AssetFile": "M:\\webApi-אלישבע ספראי\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\jktenh644w-8lo6gsli88.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -233,7 +233,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 17:22:54 GMT"
+          "Value": "Wed, 23 Apr 2025 17:36:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -264,13 +264,13 @@
       ]
     },
     {
-      "Route": "Home.hbvovjzh6i.js",
-      "AssetFile": "M:\\webApi\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\mr1y3e05c8-hbvovjzh6i.gz",
+      "Route": "Home.amf7inl30t.js",
+      "AssetFile": "M:\\webApi-אלישבע ספראי\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\mr1y3e05c8-amf7inl30t.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001508295626"
+          "Quality": "0.001402524544"
         }
       ],
       "ResponseHeaders": [
@@ -280,15 +280,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "662"
+          "Value": "712"
         },
         {
           "Name": "ETag",
-          "Value": "\"/WqwGjW7uYNbqTC+duuqUsuO8+5e8ar8Lg2kHDWmYfI=\""
+          "Value": "\"XnGQa9osyjMBIBou02Vc2hmc1I+DcWPRDJ89b2Q9XRQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 17:28:19 GMT"
+          "Value": "Wed, 23 Apr 2025 17:36:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -308,13 +308,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"czCqzZ7AuzWqFGzWzcwNg5DimxrCxqoHcWcz0Dd5rjQ=\""
+          "Value": "W/\"0mhSeLnx5i434tA1vKaPoNY8pexIhhUn0lWNn1ZbWkU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hbvovjzh6i"
+          "Value": "amf7inl30t"
         },
         {
           "Name": "label",
@@ -322,13 +322,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-czCqzZ7AuzWqFGzWzcwNg5DimxrCxqoHcWcz0Dd5rjQ="
+          "Value": "sha256-0mhSeLnx5i434tA1vKaPoNY8pexIhhUn0lWNn1ZbWkU="
         }
       ]
     },
     {
-      "Route": "Home.hbvovjzh6i.js",
-      "AssetFile": "M:\\webApi\\Bakery\\Bakery\\wwwroot\\Home.js",
+      "Route": "Home.amf7inl30t.js",
+      "AssetFile": "M:\\webApi-אלישבע ספראי\\Bakery\\Bakery\\wwwroot\\Home.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -337,7 +337,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3059"
+          "Value": "3193"
         },
         {
           "Name": "Content-Type",
@@ -345,11 +345,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"czCqzZ7AuzWqFGzWzcwNg5DimxrCxqoHcWcz0Dd5rjQ=\""
+          "Value": "\"0mhSeLnx5i434tA1vKaPoNY8pexIhhUn0lWNn1ZbWkU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 17:28:19 GMT"
+          "Value": "Wed, 23 Apr 2025 17:36:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -359,7 +359,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hbvovjzh6i"
+          "Value": "amf7inl30t"
         },
         {
           "Name": "label",
@@ -367,13 +367,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-czCqzZ7AuzWqFGzWzcwNg5DimxrCxqoHcWcz0Dd5rjQ="
+          "Value": "sha256-0mhSeLnx5i434tA1vKaPoNY8pexIhhUn0lWNn1ZbWkU="
         }
       ]
     },
     {
-      "Route": "Home.hbvovjzh6i.js.gz",
-      "AssetFile": "M:\\webApi\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\mr1y3e05c8-hbvovjzh6i.gz",
+      "Route": "Home.amf7inl30t.js.gz",
+      "AssetFile": "M:\\webApi-אלישבע ספראי\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\mr1y3e05c8-amf7inl30t.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -382,7 +382,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "662"
+          "Value": "712"
         },
         {
           "Name": "Content-Type",
@@ -390,11 +390,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/WqwGjW7uYNbqTC+duuqUsuO8+5e8ar8Lg2kHDWmYfI=\""
+          "Value": "\"XnGQa9osyjMBIBou02Vc2hmc1I+DcWPRDJ89b2Q9XRQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 17:28:19 GMT"
+          "Value": "Wed, 23 Apr 2025 17:36:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -412,7 +412,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hbvovjzh6i"
+          "Value": "amf7inl30t"
         },
         {
           "Name": "label",
@@ -420,13 +420,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-/WqwGjW7uYNbqTC+duuqUsuO8+5e8ar8Lg2kHDWmYfI="
+          "Value": "sha256-XnGQa9osyjMBIBou02Vc2hmc1I+DcWPRDJ89b2Q9XRQ="
         }
       ]
     },
     {
       "Route": "Home.html",
-      "AssetFile": "M:\\webApi\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\jktenh644w-8lo6gsli88.gz",
+      "AssetFile": "M:\\webApi-אלישבע ספראי\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\jktenh644w-8lo6gsli88.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -449,7 +449,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 17:22:54 GMT"
+          "Value": "Wed, 23 Apr 2025 17:36:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -481,7 +481,7 @@
     },
     {
       "Route": "Home.html",
-      "AssetFile": "M:\\webApi\\Bakery\\Bakery\\wwwroot\\Home.html",
+      "AssetFile": "M:\\webApi-אלישבע ספראי\\Bakery\\Bakery\\wwwroot\\Home.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -502,7 +502,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 17:22:54 GMT"
+          "Value": "Wed, 23 Apr 2025 17:36:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -518,7 +518,7 @@
     },
     {
       "Route": "Home.html.gz",
-      "AssetFile": "M:\\webApi\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\jktenh644w-8lo6gsli88.gz",
+      "AssetFile": "M:\\webApi-אלישבע ספראי\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\jktenh644w-8lo6gsli88.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -539,7 +539,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 17:22:54 GMT"
+          "Value": "Wed, 23 Apr 2025 17:36:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -563,12 +563,12 @@
     },
     {
       "Route": "Home.js",
-      "AssetFile": "M:\\webApi\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\mr1y3e05c8-hbvovjzh6i.gz",
+      "AssetFile": "M:\\webApi-אלישבע ספראי\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\mr1y3e05c8-amf7inl30t.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001508295626"
+          "Quality": "0.001402524544"
         }
       ],
       "ResponseHeaders": [
@@ -578,15 +578,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "662"
+          "Value": "712"
         },
         {
           "Name": "ETag",
-          "Value": "\"/WqwGjW7uYNbqTC+duuqUsuO8+5e8ar8Lg2kHDWmYfI=\""
+          "Value": "\"XnGQa9osyjMBIBou02Vc2hmc1I+DcWPRDJ89b2Q9XRQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 17:28:19 GMT"
+          "Value": "Wed, 23 Apr 2025 17:36:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -606,19 +606,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"czCqzZ7AuzWqFGzWzcwNg5DimxrCxqoHcWcz0Dd5rjQ=\""
+          "Value": "W/\"0mhSeLnx5i434tA1vKaPoNY8pexIhhUn0lWNn1ZbWkU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-czCqzZ7AuzWqFGzWzcwNg5DimxrCxqoHcWcz0Dd5rjQ="
+          "Value": "sha256-0mhSeLnx5i434tA1vKaPoNY8pexIhhUn0lWNn1ZbWkU="
         }
       ]
     },
     {
       "Route": "Home.js",
-      "AssetFile": "M:\\webApi\\Bakery\\Bakery\\wwwroot\\Home.js",
+      "AssetFile": "M:\\webApi-אלישבע ספראי\\Bakery\\Bakery\\wwwroot\\Home.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -627,7 +627,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3059"
+          "Value": "3193"
         },
         {
           "Name": "Content-Type",
@@ -635,11 +635,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"czCqzZ7AuzWqFGzWzcwNg5DimxrCxqoHcWcz0Dd5rjQ=\""
+          "Value": "\"0mhSeLnx5i434tA1vKaPoNY8pexIhhUn0lWNn1ZbWkU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 17:28:19 GMT"
+          "Value": "Wed, 23 Apr 2025 17:36:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -649,13 +649,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-czCqzZ7AuzWqFGzWzcwNg5DimxrCxqoHcWcz0Dd5rjQ="
+          "Value": "sha256-0mhSeLnx5i434tA1vKaPoNY8pexIhhUn0lWNn1ZbWkU="
         }
       ]
     },
     {
       "Route": "Home.js.gz",
-      "AssetFile": "M:\\webApi\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\mr1y3e05c8-hbvovjzh6i.gz",
+      "AssetFile": "M:\\webApi-אלישבע ספראי\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\mr1y3e05c8-amf7inl30t.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -664,7 +664,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "662"
+          "Value": "712"
         },
         {
           "Name": "Content-Type",
@@ -672,11 +672,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/WqwGjW7uYNbqTC+duuqUsuO8+5e8ar8Lg2kHDWmYfI=\""
+          "Value": "\"XnGQa9osyjMBIBou02Vc2hmc1I+DcWPRDJ89b2Q9XRQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 17:28:19 GMT"
+          "Value": "Wed, 23 Apr 2025 17:36:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -694,7 +694,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/WqwGjW7uYNbqTC+duuqUsuO8+5e8ar8Lg2kHDWmYfI="
+          "Value": "sha256-XnGQa9osyjMBIBou02Vc2hmc1I+DcWPRDJ89b2Q9XRQ="
         }
       ]
     }

@@ -1,2 +1,0 @@
-M:\webApi\Bakery\Bakery\wwwroot\Home.html
-M:\webApi\Bakery\Bakery\wwwroot\Home.js

@@ -1810,11 +1810,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "M:\\API\\AdoNet\\AdoNet\\AdoNet.csproj",
+      "projectUniqueName": "M:\\webApi-אלישבע ספראי\\AdoNet\\AdoNet\\AdoNet.csproj",
       "projectName": "AdoNet",
-      "projectPath": "M:\\API\\AdoNet\\AdoNet\\AdoNet.csproj",
+      "projectPath": "M:\\webApi-אלישבע ספראי\\AdoNet\\AdoNet\\AdoNet.csproj",
       "packagesPath": "C:\\Users\\215587544\\.nuget\\packages\\",
-      "outputPath": "M:\\API\\AdoNet\\AdoNet\\obj\\",
+      "outputPath": "M:\\webApi-אלישבע ספראי\\AdoNet\\AdoNet\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

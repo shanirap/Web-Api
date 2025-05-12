@@ -67,8 +67,7 @@ const login = async () => {
     else {
         alert("Unauthorized")
     }
-
-    localStorage.setItem("userId", userDetails.userId)
+    localStorage.setItem("userId", userDetails.id)
 
 }
 

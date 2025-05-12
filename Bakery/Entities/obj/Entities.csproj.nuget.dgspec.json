@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "M:\\webApi\\Bakery\\Entities\\Entities.csproj": {}
+    "M:\\webApi-אלישבע ספראי\\Bakery\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "M:\\webApi\\Bakery\\Entities\\Entities.csproj": {
+    "M:\\webApi-אלישבע ספראי\\Bakery\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "M:\\webApi\\Bakery\\Entities\\Entities.csproj",
+        "projectUniqueName": "M:\\webApi-אלישבע ספראי\\Bakery\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "M:\\webApi\\Bakery\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\328308465\\.nuget\\packages\\",
-        "outputPath": "M:\\webApi\\Bakery\\Entities\\obj\\",
+        "projectPath": "M:\\webApi-אלישבע ספראי\\Bakery\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\215587544\\.nuget\\packages\\",
+        "outputPath": "M:\\webApi-אלישבע ספראי\\Bakery\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\328308465\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\215587544\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -50,6 +50,12 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

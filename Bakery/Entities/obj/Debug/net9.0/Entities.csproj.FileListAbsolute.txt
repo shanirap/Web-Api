@@ -9,3 +9,16 @@ M:\webApi\Bakery\Entities\obj\Debug\net9.0\Entities.dll
 M:\webApi\Bakery\Entities\obj\Debug\net9.0\refint\Entities.dll
 M:\webApi\Bakery\Entities\obj\Debug\net9.0\Entities.pdb
 M:\webApi\Bakery\Entities\obj\Debug\net9.0\ref\Entities.dll
+M:\webApi-אלישבע ספראי\Bakery\Entities\bin\Debug\net9.0\Entities.deps.json
+M:\webApi-אלישבע ספראי\Bakery\Entities\bin\Debug\net9.0\Entities.dll
+M:\webApi-אלישבע ספראי\Bakery\Entities\bin\Debug\net9.0\Entities.pdb
+M:\webApi-אלישבע ספראי\Bakery\Entities\obj\Debug\net9.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+M:\webApi-אלישבע ספראי\Bakery\Entities\obj\Debug\net9.0\Entities.AssemblyInfoInputs.cache
+M:\webApi-אלישבע ספראי\Bakery\Entities\obj\Debug\net9.0\Entities.AssemblyInfo.cs
+M:\webApi-אלישבע ספראי\Bakery\Entities\obj\Debug\net9.0\Entities.csproj.CoreCompileInputs.cache
+M:\webApi-אלישבע ספראי\Bakery\Entities\obj\Debug\net9.0\Entities.sourcelink.json
+M:\webApi-אלישבע ספראי\Bakery\Entities\obj\Debug\net9.0\Entities.dll
+M:\webApi-אלישבע ספראי\Bakery\Entities\obj\Debug\net9.0\refint\Entities.dll
+M:\webApi-אלישבע ספראי\Bakery\Entities\obj\Debug\net9.0\Entities.pdb
+M:\webApi-אלישבע ספראי\Bakery\Entities\obj\Debug\net9.0\ref\Entities.dll
+M:\webApi-אלישבע ספראי\Bakery\Entities\obj\Debug\net9.0\Entities.csproj.AssemblyReference.cache

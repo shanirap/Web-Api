@@ -15,3 +15,21 @@ M:\webApi\Bakery\Services\obj\Debug\net9.0\Services.dll
 M:\webApi\Bakery\Services\obj\Debug\net9.0\refint\Services.dll
 M:\webApi\Bakery\Services\obj\Debug\net9.0\Services.pdb
 M:\webApi\Bakery\Services\obj\Debug\net9.0\ref\Services.dll
+M:\webApi-אלישבע ספראי\Bakery\Services\bin\Debug\net9.0\Services.deps.json
+M:\webApi-אלישבע ספראי\Bakery\Services\bin\Debug\net9.0\Services.dll
+M:\webApi-אלישבע ספראי\Bakery\Services\bin\Debug\net9.0\Services.pdb
+M:\webApi-אלישבע ספראי\Bakery\Services\bin\Debug\net9.0\Entities.dll
+M:\webApi-אלישבע ספראי\Bakery\Services\bin\Debug\net9.0\Repositories.dll
+M:\webApi-אלישבע ספראי\Bakery\Services\bin\Debug\net9.0\Entities.pdb
+M:\webApi-אלישבע ספראי\Bakery\Services\bin\Debug\net9.0\Repositories.pdb
+M:\webApi-אלישבע ספראי\Bakery\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+M:\webApi-אלישבע ספראי\Bakery\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+M:\webApi-אלישבע ספראי\Bakery\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+M:\webApi-אלישבע ספראי\Bakery\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+M:\webApi-אלישבע ספראי\Bakery\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+M:\webApi-אלישבע ספראי\Bakery\Services\obj\Debug\net9.0\Services.sourcelink.json
+M:\webApi-אלישבע ספראי\Bakery\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+M:\webApi-אלישבע ספראי\Bakery\Services\obj\Debug\net9.0\Services.dll
+M:\webApi-אלישבע ספראי\Bakery\Services\obj\Debug\net9.0\refint\Services.dll
+M:\webApi-אלישבע ספראי\Bakery\Services\obj\Debug\net9.0\Services.pdb
+M:\webApi-אלישבע ספראי\Bakery\Services\obj\Debug\net9.0\ref\Services.dll
