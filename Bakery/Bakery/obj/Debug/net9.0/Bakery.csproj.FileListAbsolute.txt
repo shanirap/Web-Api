@@ -128,7 +128,6 @@ M:\webApi-אלישבע ספראי\Bakery\Bakery\obj\Debug\net9.0\Bakery.MvcAppli
 M:\webApi-אלישבע ספראי\Bakery\Bakery\obj\Debug\net9.0\Bakery.sourcelink.json
 M:\webApi-אלישבע ספראי\Bakery\Bakery\obj\Debug\net9.0\scopedcss\bundle\Bakery.styles.css
 M:\webApi-אלישבע ספראי\Bakery\Bakery\obj\Debug\net9.0\compressed\jktenh644w-8lo6gsli88.gz
-M:\webApi-אלישבע ספראי\Bakery\Bakery\obj\Debug\net9.0\compressed\mr1y3e05c8-amf7inl30t.gz
 M:\webApi-אלישבע ספראי\Bakery\Bakery\obj\Debug\net9.0\staticwebassets.build.json
 M:\webApi-אלישבע ספראי\Bakery\Bakery\obj\Debug\net9.0\staticwebassets.development.json
 M:\webApi-אלישבע ספראי\Bakery\Bakery\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -195,3 +194,4 @@ M:\webApi-אלישבע ספראי\Bakery\Bakery\bin\Debug\net9.0\runtimes\win\li
 M:\webApi-אלישבע ספראי\Bakery\Bakery\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 M:\webApi-אלישבע ספראי\Bakery\Bakery\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 M:\webApi-אלישבע ספראי\Bakery\Bakery\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+M:\webApi-אלישבע ספראי\Bakery\Bakery\obj\Debug\net9.0\compressed\mr1y3e05c8-0pye2rz1ys.gz

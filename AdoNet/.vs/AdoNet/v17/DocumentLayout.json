@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "M:\\API\\AdoNet\\",
+  "WorkspaceRootPath": "M:\\webApi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\AdoNet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{55657ECA-CC89-4503-B167-7544D8300401}|AdoNet\\AdoNet.csproj|m:\\api\\adonet\\adonet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55657ECA-CC89-4503-B167-7544D8300401}|AdoNet\\AdoNet.csproj|solutionrelative:adonet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55657ECA-CC89-4503-B167-7544D8300401}|AdoNet\\AdoNet.csproj|m:\\webapi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\adonet\\adonet\\sqlmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55657ECA-CC89-4503-B167-7544D8300401}|AdoNet\\AdoNet.csproj|solutionrelative:adonet\\sqlmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55657ECA-CC89-4503-B167-7544D8300401}|AdoNet\\AdoNet.csproj|m:\\api\\adonet\\adonet\\sqlmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55657ECA-CC89-4503-B167-7544D8300401}|AdoNet\\AdoNet.csproj|solutionrelative:adonet\\sqlmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55657ECA-CC89-4503-B167-7544D8300401}|AdoNet\\AdoNet.csproj|m:\\webapi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\adonet\\adonet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55657ECA-CC89-4503-B167-7544D8300401}|AdoNet\\AdoNet.csproj|solutionrelative:adonet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,41 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "SqlManagement.cs",
-              "DocumentMoniker": "M:\\API\\AdoNet\\AdoNet\\SqlManagement.cs",
+              "DocumentMoniker": "M:\\webApi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\AdoNet\\AdoNet\\SqlManagement.cs",
               "RelativeDocumentMoniker": "AdoNet\\SqlManagement.cs",
-              "ToolTip": "M:\\API\\AdoNet\\AdoNet\\SqlManagement.cs",
+              "ToolTip": "M:\\webApi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\AdoNet\\AdoNet\\SqlManagement.cs",
               "RelativeToolTip": "AdoNet\\SqlManagement.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAFYAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-29T10:50:28.279Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "M:\\API\\AdoNet\\AdoNet\\Program.cs",
+              "DocumentMoniker": "M:\\webApi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\AdoNet\\AdoNet\\Program.cs",
               "RelativeDocumentMoniker": "AdoNet\\Program.cs",
-              "ToolTip": "M:\\API\\AdoNet\\AdoNet\\Program.cs",
+              "ToolTip": "M:\\webApi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\AdoNet\\AdoNet\\Program.cs",
               "RelativeToolTip": "AdoNet\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwDMAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T08:10:24.622Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             }
           ]
         }

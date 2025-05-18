@@ -1,16 +1,16 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/Bakery/Home.0pye2rz1ys.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Home.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0pye2rz1ys"},{"Name":"integrity","Value":"sha256-3FozafMf/abk6LWDlpufTjfCFPJGQPt7hDpQGZGj3W8="},{"Name":"label","Value":"_content/Bakery/Home.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3205"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00223FozafMf/abk6LWDlpufTjfCFPJGQPt7hDpQGZGj3W8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 13 May 2025 10:43:34 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Bakery/Home.8lo6gsli88.html">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Home.html'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8lo6gsli88"},{"Name":"integrity","Value":"sha256-BG5Ct6ByotT7g1wVXPyNcVGgb84yTkAu1JL4KQayqkw="},{"Name":"label","Value":"_content/Bakery/Home.html"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1276"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022BG5Ct6ByotT7g1wVXPyNcVGgb84yTkAu1JL4KQayqkw=\u0022"},{"Name":"Last-Modified","Value":"Wed, 23 Apr 2025 17:36:36 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Bakery/Home.amf7inl30t.js">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Home.js'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"amf7inl30t"},{"Name":"integrity","Value":"sha256-0mhSeLnx5i434tA1vKaPoNY8pexIhhUn0lWNn1ZbWkU="},{"Name":"label","Value":"_content/Bakery/Home.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3193"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00220mhSeLnx5i434tA1vKaPoNY8pexIhhUn0lWNn1ZbWkU=\u0022"},{"Name":"Last-Modified","Value":"Wed, 23 Apr 2025 17:36:35 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Bakery/Home.html">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Home.html'))</AssetFile>
@@ -21,8 +21,8 @@
     <StaticWebAssetEndpoint Include="_content/Bakery/Home.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Home.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-0mhSeLnx5i434tA1vKaPoNY8pexIhhUn0lWNn1ZbWkU="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3193"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00220mhSeLnx5i434tA1vKaPoNY8pexIhhUn0lWNn1ZbWkU=\u0022"},{"Name":"Last-Modified","Value":"Wed, 23 Apr 2025 17:36:35 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-3FozafMf/abk6LWDlpufTjfCFPJGQPt7hDpQGZGj3W8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3205"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00223FozafMf/abk6LWDlpufTjfCFPJGQPt7hDpQGZGj3W8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 13 May 2025 10:43:34 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
   </ItemGroup>
 </Project>

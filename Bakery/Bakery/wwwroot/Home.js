@@ -79,13 +79,15 @@ const upDate = async () => {
     const password = document.getElementById("Upsw").value
     const userName = document.getElementById("Uuser_name").value
 
+    const id = localStorage.getItem("userId")
+
     const user = {
         firstName: firstName,
         lastName: lastName,
         userName: userName,
-        password: password
+        password: password,
+        Id:id
     }
-    const id = localStorage.getItem("userId")
 
     const responsePost = await fetch(`api/User/${id}`, {
         method: 'Put',
