@@ -195,3 +195,9 @@ M:\webApi-אלישבע ספראי\Bakery\Bakery\bin\Debug\net9.0\runtimes\win\li
 M:\webApi-אלישבע ספראי\Bakery\Bakery\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 M:\webApi-אלישבע ספראי\Bakery\Bakery\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 M:\webApi-אלישבע ספראי\Bakery\Bakery\obj\Debug\net9.0\compressed\mr1y3e05c8-0pye2rz1ys.gz
+M:\webApi-אלישבע ספראי\Bakery\Bakery\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+M:\webApi-אלישבע ספראי\Bakery\Bakery\bin\Debug\net9.0\Microsoft.OpenApi.dll
+M:\webApi-אלישבע ספראי\Bakery\Bakery\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\webApi-אלישבע ספראי\Bakery\Bakery\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\webApi-אלישבע ספראי\Bakery\Bakery\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\webApi-אלישבע ספראי\Bakery\Bakery\obj\Debug\net9.0\Bakery.MvcApplicationPartsAssemblyInfo.cs

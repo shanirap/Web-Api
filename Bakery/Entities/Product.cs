@@ -8,9 +8,9 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Entities;
 
-[Keyless]
 public partial class Product
 {
+    [Key]
     public int Id { get; set; }
 
     [Column("Category_ID")]
@@ -29,4 +29,11 @@ public partial class Product
     [Column("image_Path")]
     [StringLength(20)]
     public string ImagePath { get; set; }
+
+    [ForeignKey("CategoryId")]
+    [InverseProperty("Products")]
+    public virtual Catgory Category { get; set; }
+
+    [InverseProperty("Product")]
+    public virtual ICollection<OrderItem> OrderItems { get; set; } = new List<OrderItem>();
 }

@@ -3,8 +3,9 @@
 using System;
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
+using Entities;
 
-namespace Entities;
+namespace Repositories;
 
 public partial class BakeryDBContext : DbContext
 {
@@ -15,6 +16,10 @@ public partial class BakeryDBContext : DbContext
 
     public virtual DbSet<Catgory> Catgories { get; set; }
 
+    public virtual DbSet<Order> Orders { get; set; }
+
+    public virtual DbSet<OrderItem> OrderItems { get; set; }
+
     public virtual DbSet<Product> Products { get; set; }
 
     public virtual DbSet<User> Users { get; set; }
@@ -24,15 +29,35 @@ public partial class BakeryDBContext : DbContext
         modelBuilder.Entity<Catgory>(entity =>
         {
             entity.Property(e => e.CatgoryName).IsFixedLength();
-            entity.Property(e => e.Id).ValueGeneratedOnAdd();
+        });
+
+        modelBuilder.Entity<Order>(entity =>
+        {
+            entity.HasOne(d => d.User).WithMany(p => p.Orders)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("FK_Orders_Users");
+        });
+
+        modelBuilder.Entity<OrderItem>(entity =>
+        {
+            entity.HasKey(e => e.OrderItemId).HasName("PK_ORDER_ITEM");
+
+            entity.HasOne(d => d.Order).WithMany(p => p.OrderItems)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("FK_Order_Item_Orders");
+
+            entity.HasOne(d => d.Product).WithMany(p => p.OrderItems)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("FK_Order_Item_Products");
         });
 
         modelBuilder.Entity<Product>(entity =>
         {
-            entity.Property(e => e.Id).ValueGeneratedOnAdd();
             entity.Property(e => e.ImagePath).IsFixedLength();
             entity.Property(e => e.ProductDescription).IsFixedLength();
             entity.Property(e => e.ProductName).IsFixedLength();
+
+            entity.HasOne(d => d.Category).WithMany(p => p.Products).HasConstraintName("FK_Products_Catgories");
         });
 
         modelBuilder.Entity<User>(entity =>

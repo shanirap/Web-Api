@@ -40,7 +40,6 @@ namespace Bakery.Controllers
         }
         [HttpPost]
         [Route("checkPassword")]
-
         public int CheckPassword([FromBody] String password)
         {
             return userServices.validatepasswordStrong(password);

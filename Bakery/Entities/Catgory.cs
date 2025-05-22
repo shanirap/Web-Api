@@ -8,12 +8,15 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Entities;
 
-[Keyless]
 public partial class Catgory
 {
+    [Key]
     public int Id { get; set; }
 
     [Column("Catgory_Name")]
     [StringLength(20)]
     public string CatgoryName { get; set; }
+
+    [InverseProperty("Category")]
+    public virtual ICollection<Product> Products { get; set; } = new List<Product>();
 }
