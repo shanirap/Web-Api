@@ -15,6 +15,10 @@ public partial class UsersDBContext : DbContext
 
     public virtual DbSet<Category> Categories { get; set; }
 
+    public virtual DbSet<Order> Orders { get; set; }
+
+    public virtual DbSet<OrderItem> OrderItems { get; set; }
+
     public virtual DbSet<Product> Products { get; set; }
 
     public virtual DbSet<User> Users { get; set; }
@@ -24,15 +28,37 @@ public partial class UsersDBContext : DbContext
         modelBuilder.Entity<Category>(entity =>
         {
             entity.Property(e => e.CategoryName).IsFixedLength();
-            entity.Property(e => e.Id).ValueGeneratedOnAdd();
+        });
+
+        modelBuilder.Entity<Order>(entity =>
+        {
+            entity.Property(e => e.OrderId).ValueGeneratedNever();
+
+            entity.HasOne(d => d.User).WithMany(p => p.Orders)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("FK_Orders_Users");
+        });
+
+        modelBuilder.Entity<OrderItem>(entity =>
+        {
+            entity.HasKey(e => e.OrderItemId).HasName("PK_ORDER_ITEM");
+
+            entity.HasOne(d => d.Order).WithMany(p => p.OrderItems)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("FK_OrderItem_Orders");
+
+            entity.HasOne(d => d.Product).WithMany(p => p.OrderItems)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("FK_OrderItem_Prouducts");
         });
 
         modelBuilder.Entity<Product>(entity =>
         {
-            entity.Property(e => e.Id).ValueGeneratedOnAdd();
             entity.Property(e => e.ImagePath).IsFixedLength();
             entity.Property(e => e.ProductDescription).IsFixedLength();
             entity.Property(e => e.ProductName).IsFixedLength();
+
+            entity.HasOne(d => d.Category).WithMany(p => p.Products).HasConstraintName("FK_Prouducts_Category");
         });
 
         OnModelCreatingPartial(modelBuilder);

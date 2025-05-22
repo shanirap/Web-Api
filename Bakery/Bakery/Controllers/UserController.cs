@@ -19,7 +19,7 @@ namespace Bakery.Controllers
         }
         // GET: api/<UserController>
         [HttpGet]
-        public async Task<List<User>> Get()
+        public async Task<ActionResult<List<User>>> Get()
         {
             return await userServices.getAllUsers();
         }

@@ -19,7 +19,5 @@ namespace Repositories
         {
             return await dBContext.Categories.ToListAsync<Category>();
         }
-
-
     }
 }

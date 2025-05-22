@@ -8,40 +8,43 @@ namespace Bakery.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class CategoryController : ControllerBase
+    public class orderController : ControllerBase
     {
-        private readonly ICategoryServices CategoryServices;
-        public CategoryController(ICategoryServices _CategoryServices)
+        private readonly IorderServices OrderServices;
+        public orderController(IorderServices _OrderServices)
         {
-            CategoryServices = _CategoryServices;
+            OrderServices = _OrderServices;
         }
-        // GET: api/<CategoryController>
+        // GET: api/<orderController>
         [HttpGet]
-        public async Task<List<Category>> Get()
+        public async Task<List<Order>> Get()
         {
-            return await CategoryServices.getCategory();
+            return await OrderServices.getOrder();
         }
 
-        // GET api/<CategoryController>/5
+        // GET api/<orderController>/5
         [HttpGet("{id}")]
         public string Get(int id)
         {
             return "value";
         }
 
-        // POST api/<CategoryController>
+        // POST api/<orderController>
         [HttpPost]
-        public void Post([FromBody]string value)
+        public async Task Add([FromBody] Order order )
         {
+           
+              await OrderServices.Add(order);
+ 
         }
 
-        // PUT api/<CategoryController>/5
+        // PUT api/<orderController>/5
         [HttpPut("{id}")]
         public void Put(int id, [FromBody]string value)
         {
         }
 
-        // DELETE api/<CategoryController>/5
+        // DELETE api/<orderController>/5
         [HttpDelete("{id}")]
         public void Delete(int id)
         {
