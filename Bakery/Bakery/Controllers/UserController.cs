@@ -1,4 +1,5 @@
-﻿using Entities;
+﻿using DTOs;
+using Entities;
 using Microsoft.AspNetCore.Mvc;
 using Services;
 using System.Net;
@@ -19,16 +20,16 @@ namespace Bakery.Controllers
         }
         // GET: api/<UserController>
         [HttpGet]
-        public async Task<ActionResult<List<User>>> Get()
+        public async Task<ActionResult<List<UserDto>>> Get()
         {
             return await userServices.getUsers();
         }
 
         // GET api/<UserController>/5
         [HttpGet("{id}")]
-        public async Task<ActionResult<User>> Get(int id)
+        public async Task<ActionResult<UserDto>> Get(int id)
         {
-             User user = await userServices.getUserId(id);
+             UserDto user = await userServices.getUserId(id);
             if(user!=null)
             {
                 return Ok(User);
@@ -47,14 +48,14 @@ namespace Bakery.Controllers
 
         [HttpPost]
         [Route("register")]
-        public async Task<ActionResult<User>> Register([FromBody] User user)
+        public async Task<ActionResult<UserDto>> Register([FromBody] RegisterUserDto user)
         {
             if (user is null)
                 return StatusCode(400, "user is required");
             try
             {
                 await userServices.register(user);
-                return CreatedAtAction(nameof(Get), new { id = user.Id }, user);
+                return CreatedAtAction(nameof(Get),user);
             }
             catch (HttpStatusException e)
             {
@@ -66,11 +67,11 @@ namespace Bakery.Controllers
 
         [HttpPost]
         [Route("login")]
-        public async Task<ActionResult<User>> Login([FromBody] LoginUser loginUser)
+        public async Task<ActionResult<User>> Login([FromBody] LoginUserDto loginUser)
         {
             try
             {
-                User user =await userServices.login(loginUser);
+                UserDto user =await userServices.login(loginUser);
                 return Ok(user);
             }
              catch(HttpStatusException e)
@@ -84,7 +85,7 @@ namespace Bakery.Controllers
 
         // PUT api/<UserController>/5
         [HttpPut("{id}")]
-        public async Task<ActionResult<User>> Put( int id, [FromBody]  User user)
+        public async Task<ActionResult<User>> Put( int id, [FromBody]  RegisterUserDto user)
         {
             try
             {
@@ -98,10 +99,5 @@ namespace Bakery.Controllers
 
         }
 
-        // DELETE api/<UserController>/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
-        }
     }
 }

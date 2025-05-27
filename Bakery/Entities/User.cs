@@ -26,7 +26,8 @@ public partial class User
     [Column("PASSWORD")]
     [StringLength(50)]
     public string Password { get; set; }
-
+    
+    [Required]
     [Column("USERNAME")]
     [StringLength(50)]
     public string Username { get; set; }

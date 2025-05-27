@@ -2,6 +2,22 @@
   "version": 3,
   "targets": {
     "net9.0": {
+      "AutoMapper/14.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Options": "8.0.0"
+        },
+        "compile": {
+          "lib/net8.0/AutoMapper.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/AutoMapper.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Azure.Core/1.38.0": {
         "type": "package",
         "dependencies": {
@@ -1111,10 +1127,24 @@
           }
         }
       },
+      "DTOs/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "AutoMapper": "14.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DTOs.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DTOs.dll": {}
+        }
+      },
       "Entities/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
+          "AutoMapper": "14.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.3"
         },
         "compile": {
@@ -1128,6 +1158,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
+          "AutoMapper": "14.0.0",
           "Entities": "1.0.0"
         },
         "compile": {
@@ -1141,6 +1172,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
+          "AutoMapper": "14.0.0",
+          "DTOs": "1.0.0",
           "Entities": "1.0.0",
           "Repositories": "1.0.0",
           "zxcvbn-core": "7.0.92"
@@ -1155,6 +1188,21 @@
     }
   },
   "libraries": {
+    "AutoMapper/14.0.0": {
+      "sha512": "OC+1neAPM4oCCqQj3g2GJ2shziNNhOkxmNB9cVS8jtx4JbgmRzLcUOxB9Tsz6cVPHugdkHgCaCrTjjSI0Z5sCQ==",
+      "type": "package",
+      "path": "automapper/14.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "automapper.14.0.0.nupkg.sha512",
+        "automapper.nuspec",
+        "icon.png",
+        "lib/net8.0/AutoMapper.dll",
+        "lib/net8.0/AutoMapper.xml"
+      ]
+    },
     "Azure.Core/1.38.0": {
       "sha512": "IuEgCoVA0ef7E4pQtpC3+TkPbzaoQfa77HlfJDmfuaJUCVJmn7fT0izamZiryW5sYUFKizsftIxMkXKbgIcPMQ==",
       "type": "package",
@@ -3259,6 +3307,11 @@
         "zxcvbn-core.nuspec"
       ]
     },
+    "DTOs/1.0.0": {
+      "type": "project",
+      "path": "../DTOs/DTOs.csproj",
+      "msbuildProject": "../DTOs/DTOs.csproj"
+    },
     "Entities/1.0.0": {
       "type": "project",
       "path": "../Entities/Entities.csproj",
@@ -3277,8 +3330,11 @@
   },
   "projectFileDependencyGroups": {
     "net9.0": [
+      "AutoMapper >= 14.0.0",
+      "DTOs >= 1.0.0",
       "Entities >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 9.0.5",
+      "Repositories >= 1.0.0",
       "Services >= 1.0.0",
       "Swashbuckle.AspNetCore >= 8.1.1",
       "zxcvbn-core >= 7.0.92"
@@ -3317,8 +3373,14 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
+            "M:\\webApi-אלישבע ספראי\\Bakery\\DTOs\\DTOs.csproj": {
+              "projectPath": "M:\\webApi-אלישבע ספראי\\Bakery\\DTOs\\DTOs.csproj"
+            },
             "M:\\webApi-אלישבע ספראי\\Bakery\\Entities\\Entities.csproj": {
               "projectPath": "M:\\webApi-אלישבע ספראי\\Bakery\\Entities\\Entities.csproj"
+            },
+            "M:\\webApi-אלישבע ספראי\\Bakery\\Repositories\\Repositories.csproj": {
+              "projectPath": "M:\\webApi-אלישבע ספראי\\Bakery\\Repositories\\Repositories.csproj"
             },
             "M:\\webApi-אלישבע ספראי\\Bakery\\Services\\Services.csproj": {
               "projectPath": "M:\\webApi-אלישבע ספראי\\Bakery\\Services\\Services.csproj"
@@ -3342,6 +3404,10 @@
       "net9.0": {
         "targetAlias": "net9.0",
         "dependencies": {
+          "AutoMapper": {
+            "target": "Package",
+            "version": "[14.0.0, )"
+          },
           "Microsoft.AspNetCore.OpenApi": {
             "target": "Package",
             "version": "[9.0.5, )"

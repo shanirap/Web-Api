@@ -34,9 +34,9 @@ namespace Repositories
             }
         }
 
-        public async Task<User> Login(LoginUser loginUser)
+        public async Task<User> Login(User loginUser)
         {
-            return await dBContext.Users.FirstAsync(user => user.Username == loginUser.UserName && user.Password == loginUser.Password);
+            return await dBContext.Users.FirstAsync(user => user.Username == loginUser.Username && user.Password == loginUser.Password);
 
         }
         public async Task Update(int id, User user)

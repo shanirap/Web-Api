@@ -7,7 +7,7 @@ namespace Repositories
     {
         Task<User> getUserId(int id);
         Task<List<User>> getUsers();
-        Task<User> Login(LoginUser loginUser);
+        Task<User> Login(User loginUser);
         Task Register(User user);
         Task Update(int id, User user);
     }

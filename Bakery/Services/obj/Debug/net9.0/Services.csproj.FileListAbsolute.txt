@@ -33,3 +33,5 @@ M:\webApi-אלישבע ספראי\Bakery\Services\obj\Debug\net9.0\Services.dll
 M:\webApi-אלישבע ספראי\Bakery\Services\obj\Debug\net9.0\refint\Services.dll
 M:\webApi-אלישבע ספראי\Bakery\Services\obj\Debug\net9.0\Services.pdb
 M:\webApi-אלישבע ספראי\Bakery\Services\obj\Debug\net9.0\ref\Services.dll
+M:\webApi-אלישבע ספראי\Bakery\Services\bin\Debug\net9.0\DTOs.dll
+M:\webApi-אלישבע ספראי\Bakery\Services\bin\Debug\net9.0\DTOs.pdb

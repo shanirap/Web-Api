@@ -9,9 +9,15 @@ namespace Repositories;
 
 public partial class BakeryDBContext : DbContext
 {
+    
     public BakeryDBContext(DbContextOptions<BakeryDBContext> options)
         : base(options)
     {
+    }
+
+    public BakeryDBContext()
+    {
+
     }
 
     public virtual DbSet<Catgory> Catgories { get; set; }
