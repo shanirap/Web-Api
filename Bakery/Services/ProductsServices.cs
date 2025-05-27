@@ -1,4 +1,6 @@
-﻿using Entities;
+﻿using AutoMapper;
+using DTOs;
+using Entities;
 using Repositories;
 using System;
 using System.Collections.Generic;
@@ -11,13 +13,18 @@ namespace Services
     public class ProductsServices : IProductsServices
     {
         private readonly IProductsData productsData;
-        public ProductsServices(IProductsData _productsData)
+        private readonly IMapper mapper;
+        public ProductsServices(IProductsData _productsData, IMapper _mapper)
         {
             productsData = _productsData;
+            mapper = _mapper;
         }
-        public async Task<List<Product>> getProducts()
+        public async Task<List<ProductDTO>> getProducts()
         {
-            return await productsData.getProducts();
+            List<Product> l=await productsData.getProducts();
+            List<ProductDTO> ll = mapper.Map< List<Product>,List<ProductDTO>>(l);
+
+            return ll;
         }
     }
 }

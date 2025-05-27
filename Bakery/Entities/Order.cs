@@ -4,7 +4,8 @@ using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using Microsoft.EntityFrameworkCore;
+using System.Text.Json.Serialization;
+//using Microsoft.EntityFrameworkCore;
 
 namespace Entities;
 
@@ -23,10 +24,14 @@ public partial class Order
     [Column("User_Id")]
     public int UserId { get; set; }
 
+
     [InverseProperty("Order")]
     public virtual ICollection<OrderItem> OrderItems { get; set; } = new List<OrderItem>();
 
     [ForeignKey("UserId")]
     [InverseProperty("Orders")]
+    
     public virtual User User { get; set; }
+
+    
 }

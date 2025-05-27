@@ -5,20 +5,27 @@ using System.Text;
 using System.Threading.Tasks;
 using Entities;
 using Repositories;
+
 using Bakery;
+using AutoMapper;
+using DTOs;
 
 namespace Services
 {
     public class CategoryServices : ICategoryServices
     {
         private readonly ICategoriesData categoriesData;
-        public CategoryServices(ICategoriesData _categoriesData)
+        private readonly IMapper mapper;
+        public CategoryServices(ICategoriesData _categoriesData, IMapper _mapper)
         {
             categoriesData = _categoriesData;
+            mapper = _mapper;
         }
-        public async Task<List<Category>> getCategory()
+        public async Task<List<CategoryDTO>> getCategory()
         {
-            return await categoriesData.getCategory();
+            List<Category> l= await categoriesData.getCategory();
+            List<CategoryDTO> ll = mapper.Map<List<Category>, List<CategoryDTO>>(l);
+            return ll;
         }
     }
 }

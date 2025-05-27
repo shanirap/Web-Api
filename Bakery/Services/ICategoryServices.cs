@@ -1,9 +1,10 @@
-﻿using Entities;
+﻿using DTOs;
+using Entities;
 
 namespace Services
 {
     public interface ICategoryServices
     {
-        Task<List<Category>> getCategory();
+        Task<List<CategoryDTO>> getCategory();
     }
 }

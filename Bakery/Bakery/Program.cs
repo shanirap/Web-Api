@@ -12,8 +12,7 @@ builder.Services.AddScoped<ICategoryServices, CategoryServices>();
 builder.Services.AddScoped<ICategoriesData, CategoriesData>();
 builder.Services.AddScoped<IorderServices, orderServices>();
 builder.Services.AddScoped<IOrderData, OrderData>();
-
-
+builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 builder.Services.AddDbContext<UsersDBContext>(option =>
         option.UseSqlServer("Data Source = SRV2\\PUPILS; Initial Catalog = AdoNet; Integrated Security = True;Trust Server Certificate=True"));
 // Add services to the container.

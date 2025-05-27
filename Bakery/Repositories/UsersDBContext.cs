@@ -4,6 +4,7 @@ using System;
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 using Entities;
+using Bakery;
 namespace Repositories;
 
 public partial class UsersDBContext : DbContext
@@ -11,6 +12,10 @@ public partial class UsersDBContext : DbContext
     public UsersDBContext(DbContextOptions<UsersDBContext> options)
         : base(options)
     {
+    }
+    public UsersDBContext()
+    {
+        
     }
 
     public virtual DbSet<Category> Categories { get; set; }
