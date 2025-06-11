@@ -23,7 +23,7 @@ namespace Services
         public async Task<List<ProductDto>> getProducts()
         {
             List<Product>  products = await productsData.getProducts();
-            List<ProductDto> productsDto = autoMapping.Map< List < Product > ,List <ProductDto>>(products);
+            List<ProductDto> productsDto = autoMapping.Map<List<Product>, List<ProductDto>>(products);
             return productsDto;
         }
     }

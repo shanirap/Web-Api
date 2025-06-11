@@ -3,28 +3,12 @@
   "WorkspaceRootPath": "M:\\webApi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\Bakery\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F620E4A9-BF5A-48D1-BB72-A858D205701A}|Services\\Services.csproj|m:\\webapi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\bakery\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F620E4A9-BF5A-48D1-BB72-A858D205701A}|Services\\Services.csproj|solutionrelative:services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F620E4A9-BF5A-48D1-BB72-A858D205701A}|Services\\Services.csproj|m:\\webapi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\bakery\\services\\productsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F620E4A9-BF5A-48D1-BB72-A858D205701A}|Services\\Services.csproj|solutionrelative:services\\productsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A85C79BB-8B28-4CCD-867F-AC36B5C8D969}|Bakery\\Bakery.csproj|m:\\webapi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\bakery\\bakery\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A85C79BB-8B28-4CCD-867F-AC36B5C8D969}|Bakery\\Bakery.csproj|solutionrelative:bakery\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D61BFCA-48D2-4231-8315-22EF4FEE2199}|Entities\\Entities.csproj|m:\\webapi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\bakery\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D61BFCA-48D2-4231-8315-22EF4FEE2199}|Entities\\Entities.csproj|solutionrelative:entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D61BFCA-48D2-4231-8315-22EF4FEE2199}|Entities\\Entities.csproj|m:\\webapi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\bakery\\entities\\catgory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D61BFCA-48D2-4231-8315-22EF4FEE2199}|Entities\\Entities.csproj|solutionrelative:entities\\catgory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C891193-F3E3-4B2D-A08B-D3677937C851}|Repositories\\Repositories.csproj|m:\\webapi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\bakery\\repositories\\ordersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C891193-F3E3-4B2D-A08B-D3677937C851}|Repositories\\Repositories.csproj|solutionrelative:repositories\\ordersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{209425FF-6FBB-4F2B-8C7A-235952F55139}|DTOs\\DTOs.csproj|m:\\webapi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\bakery\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{209425FF-6FBB-4F2B-8C7A-235952F55139}|DTOs\\DTOs.csproj|solutionrelative:dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{209425FF-6FBB-4F2B-8C7A-235952F55139}|DTOs\\DTOs.csproj|m:\\webapi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\bakery\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209425FF-6FBB-4F2B-8C7A-235952F55139}|DTOs\\DTOs.csproj|solutionrelative:dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A85C79BB-8B28-4CCD-867F-AC36B5C8D969}|Bakery\\Bakery.csproj|m:\\webapi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\bakery\\bakery\\automapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,12 +19,36 @@
       "RelativeMoniker": "D:0:0:{F620E4A9-BF5A-48D1-BB72-A858D205701A}|Services\\Services.csproj|solutionrelative:services\\ordersservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{209425FF-6FBB-4F2B-8C7A-235952F55139}|DTOs\\DTOs.csproj|m:\\webapi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\bakery\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{209425FF-6FBB-4F2B-8C7A-235952F55139}|DTOs\\DTOs.csproj|solutionrelative:dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C891193-F3E3-4B2D-A08B-D3677937C851}|Repositories\\Repositories.csproj|m:\\webapi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\bakery\\repositories\\productsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C891193-F3E3-4B2D-A08B-D3677937C851}|Repositories\\Repositories.csproj|solutionrelative:repositories\\productsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F620E4A9-BF5A-48D1-BB72-A858D205701A}|Services\\Services.csproj|m:\\webapi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\bakery\\services\\productsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F620E4A9-BF5A-48D1-BB72-A858D205701A}|Services\\Services.csproj|solutionrelative:services\\productsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A85C79BB-8B28-4CCD-867F-AC36B5C8D969}|Bakery\\Bakery.csproj|m:\\webapi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\bakery\\bakery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A85C79BB-8B28-4CCD-867F-AC36B5C8D969}|Bakery\\Bakery.csproj|solutionrelative:bakery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C891193-F3E3-4B2D-A08B-D3677937C851}|Repositories\\Repositories.csproj|m:\\webapi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\bakery\\repositories\\ordersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C891193-F3E3-4B2D-A08B-D3677937C851}|Repositories\\Repositories.csproj|solutionrelative:repositories\\ordersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D61BFCA-48D2-4231-8315-22EF4FEE2199}|Entities\\Entities.csproj|m:\\webapi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\bakery\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D61BFCA-48D2-4231-8315-22EF4FEE2199}|Entities\\Entities.csproj|solutionrelative:entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A85C79BB-8B28-4CCD-867F-AC36B5C8D969}|Bakery\\Bakery.csproj|m:\\webapi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\bakery\\bakery\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A85C79BB-8B28-4CCD-867F-AC36B5C8D969}|Bakery\\Bakery.csproj|solutionrelative:bakery\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D61BFCA-48D2-4231-8315-22EF4FEE2199}|Entities\\Entities.csproj|m:\\webapi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\bakery\\entities\\catgory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D61BFCA-48D2-4231-8315-22EF4FEE2199}|Entities\\Entities.csproj|solutionrelative:entities\\catgory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F620E4A9-BF5A-48D1-BB72-A858D205701A}|Services\\Services.csproj|m:\\webapi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\bakery\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F620E4A9-BF5A-48D1-BB72-A858D205701A}|Services\\Services.csproj|solutionrelative:services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209425FF-6FBB-4F2B-8C7A-235952F55139}|DTOs\\DTOs.csproj|m:\\webapi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\bakery\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209425FF-6FBB-4F2B-8C7A-235952F55139}|DTOs\\DTOs.csproj|solutionrelative:dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D61BFCA-48D2-4231-8315-22EF4FEE2199}|Entities\\Entities.csproj|m:\\webapi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\bakery\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -83,14 +91,6 @@
       "RelativeMoniker": "D:0:0:{209425FF-6FBB-4F2B-8C7A-235952F55139}|DTOs\\DTOs.csproj|solutionrelative:dtos\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{209425FF-6FBB-4F2B-8C7A-235952F55139}|DTOs\\DTOs.csproj|m:\\webapi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\bakery\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{209425FF-6FBB-4F2B-8C7A-235952F55139}|DTOs\\DTOs.csproj|solutionrelative:dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A85C79BB-8B28-4CCD-867F-AC36B5C8D969}|Bakery\\Bakery.csproj|m:\\webapi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\bakery\\bakery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A85C79BB-8B28-4CCD-867F-AC36B5C8D969}|Bakery\\Bakery.csproj|solutionrelative:bakery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{209425FF-6FBB-4F2B-8C7A-235952F55139}|DTOs\\DTOs.csproj|m:\\webapi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\bakery\\dtos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{209425FF-6FBB-4F2B-8C7A-235952F55139}|DTOs\\DTOs.csproj|solutionrelative:dtos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -106,20 +106,20 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "M:\\webApi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\Bakery\\Bakery\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Bakery\\Controllers\\UserController.cs",
-              "ToolTip": "M:\\webApi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\Bakery\\Bakery\\Controllers\\UserController.cs*",
-              "RelativeToolTip": "Bakery\\Controllers\\UserController.cs*",
-              "ViewState": "AgIAACYAAAAAAAAAAAAwwDYAAAALAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "ProductsData.cs",
+              "DocumentMoniker": "M:\\webApi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\Bakery\\Repositories\\ProductsData.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductsData.cs",
+              "ToolTip": "M:\\webApi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\Bakery\\Repositories\\ProductsData.cs",
+              "RelativeToolTip": "Repositories\\ProductsData.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T11:06:53.686Z",
+              "WhenOpened": "2025-06-11T14:53:46.698Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "OrderItem.cs",
               "DocumentMoniker": "M:\\webApi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\Bakery\\Entities\\OrderItem.cs",
               "RelativeDocumentMoniker": "Entities\\OrderItem.cs",
@@ -132,7 +132,72 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "M:\\webApi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\Bakery\\Bakery\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Bakery\\Controllers\\UserController.cs",
+              "ToolTip": "M:\\webApi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\Bakery\\Bakery\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Bakery\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwDYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T11:06:53.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "OrdersServices.cs",
+              "DocumentMoniker": "M:\\webApi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\Bakery\\Services\\OrdersServices.cs",
+              "RelativeDocumentMoniker": "Services\\OrdersServices.cs",
+              "ToolTip": "M:\\webApi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\Bakery\\Services\\OrdersServices.cs",
+              "RelativeToolTip": "Services\\OrdersServices.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:31:45.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsServices.cs",
+              "DocumentMoniker": "M:\\webApi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\Bakery\\Services\\ProductsServices.cs",
+              "RelativeDocumentMoniker": "Services\\ProductsServices.cs",
+              "ToolTip": "M:\\webApi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\Bakery\\Services\\ProductsServices.cs",
+              "RelativeToolTip": "Services\\ProductsServices.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:41:21.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutoMapping.cs",
+              "DocumentMoniker": "M:\\webApi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\Bakery\\Bakery\\AutoMapping.cs",
+              "RelativeDocumentMoniker": "Bakery\\AutoMapping.cs",
+              "ToolTip": "M:\\webApi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\Bakery\\Bakery\\AutoMapping.cs",
+              "RelativeToolTip": "Bakery\\AutoMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T16:13:54.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "M:\\webApi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\Bakery\\DTOs\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CategoryDto.cs",
+              "ToolTip": "M:\\webApi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\Bakery\\DTOs\\CategoryDto.cs",
+              "RelativeToolTip": "DTOs\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:23:22.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Catgory.cs",
               "DocumentMoniker": "M:\\webApi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\Bakery\\Entities\\Catgory.cs",
               "RelativeDocumentMoniker": "Entities\\Catgory.cs",
@@ -145,33 +210,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "OrdersData.cs",
               "DocumentMoniker": "M:\\webApi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\Bakery\\Repositories\\OrdersData.cs",
               "RelativeDocumentMoniker": "Repositories\\OrdersData.cs",
               "ToolTip": "M:\\webApi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\Bakery\\Repositories\\OrdersData.cs",
               "RelativeToolTip": "Repositories\\OrdersData.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-25T15:09:52.289Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "M:\\webApi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\Bakery\\Bakery\\Program.cs",
+              "RelativeDocumentMoniker": "Bakery\\Program.cs",
+              "ToolTip": "M:\\webApi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\Bakery\\Bakery\\Program.cs",
+              "RelativeToolTip": "Bakery\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T16:06:48.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "UserServices.cs",
               "DocumentMoniker": "M:\\webApi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\Bakery\\Services\\UserServices.cs",
               "RelativeDocumentMoniker": "Services\\UserServices.cs",
               "ToolTip": "M:\\webApi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\Bakery\\Services\\UserServices.cs",
               "RelativeToolTip": "Services\\UserServices.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAQwCwAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T12:41:51.624Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Order.cs",
               "DocumentMoniker": "M:\\webApi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\Bakery\\Entities\\Order.cs",
               "RelativeDocumentMoniker": "Entities\\Order.cs",
@@ -183,56 +261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "OrderDto.cs",
-              "DocumentMoniker": "M:\\webApi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\Bakery\\DTOs\\OrderDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\OrderDto.cs",
-              "ToolTip": "M:\\webApi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\Bakery\\DTOs\\OrderDto.cs",
-              "RelativeToolTip": "DTOs\\OrderDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T15:27:06.3Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "OrdersServices.cs",
-              "DocumentMoniker": "M:\\webApi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\Bakery\\Services\\OrdersServices.cs",
-              "RelativeDocumentMoniker": "Services\\OrdersServices.cs",
-              "ToolTip": "M:\\webApi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\Bakery\\Services\\OrdersServices.cs",
-              "RelativeToolTip": "Services\\OrdersServices.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAcwBoAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T12:31:45.13Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProductsServices.cs",
-              "DocumentMoniker": "M:\\webApi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\Bakery\\Services\\ProductsServices.cs",
-              "RelativeDocumentMoniker": "Services\\ProductsServices.cs",
-              "ToolTip": "M:\\webApi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\Bakery\\Services\\ProductsServices.cs",
-              "RelativeToolTip": "Services\\ProductsServices.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T12:41:21.707Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AutoMapping.cs",
-              "DocumentMoniker": "M:\\webApi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\Bakery\\Bakery\\AutoMapping.cs",
-              "RelativeDocumentMoniker": "Bakery\\AutoMapping.cs",
-              "ToolTip": "M:\\webApi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\Bakery\\Bakery\\AutoMapping.cs",
-              "RelativeToolTip": "Bakery\\AutoMapping.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T16:13:54.514Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "ProductDto.cs",
               "DocumentMoniker": "M:\\webApi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\Bakery\\DTOs\\ProductDto.cs",
               "RelativeDocumentMoniker": "DTOs\\ProductDto.cs",
@@ -244,7 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "UserDto.cs",
               "DocumentMoniker": "M:\\webApi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\Bakery\\DTOs\\UserDto.cs",
               "RelativeDocumentMoniker": "DTOs\\UserDto.cs",
@@ -256,7 +285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "UsersData.cs",
               "DocumentMoniker": "M:\\webApi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\Bakery\\Repositories\\UsersData.cs",
               "RelativeDocumentMoniker": "Repositories\\UsersData.cs",
@@ -268,7 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "IUsersData.cs",
               "DocumentMoniker": "M:\\webApi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\Bakery\\Repositories\\IUsersData.cs",
               "RelativeDocumentMoniker": "Repositories\\IUsersData.cs",
@@ -280,7 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "IOrdersServices.cs",
               "DocumentMoniker": "M:\\webApi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\Bakery\\Services\\IOrdersServices.cs",
               "RelativeDocumentMoniker": "Services\\IOrdersServices.cs",
@@ -292,7 +321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "ICategoriesServices.cs",
               "DocumentMoniker": "M:\\webApi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\Bakery\\Services\\ICategoriesServices.cs",
               "RelativeDocumentMoniker": "Services\\ICategoriesServices.cs",
@@ -304,7 +333,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "LoginUserDto.cs",
               "DocumentMoniker": "M:\\webApi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\Bakery\\DTOs\\LoginUserDto.cs",
               "RelativeDocumentMoniker": "DTOs\\LoginUserDto.cs",
@@ -316,7 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "OrderItemDto.cs",
               "DocumentMoniker": "M:\\webApi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\Bakery\\DTOs\\OrderItemDto.cs",
               "RelativeDocumentMoniker": "DTOs\\OrderItemDto.cs",
@@ -328,7 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "LoginUser.cs",
               "DocumentMoniker": "M:\\webApi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\Bakery\\Entities\\LoginUser.cs",
               "RelativeDocumentMoniker": "Entities\\LoginUser.cs",
@@ -340,7 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "RegisterUserDto.cs",
               "DocumentMoniker": "M:\\webApi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\Bakery\\DTOs\\RegisterUserDto.cs",
               "RelativeDocumentMoniker": "DTOs\\RegisterUserDto.cs",
@@ -349,30 +378,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T12:23:42.77Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "CategoryDto.cs",
-              "DocumentMoniker": "M:\\webApi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\Bakery\\DTOs\\CategoryDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\CategoryDto.cs",
-              "ToolTip": "M:\\webApi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\Bakery\\DTOs\\CategoryDto.cs",
-              "RelativeToolTip": "DTOs\\CategoryDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T12:23:22.963Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Program.cs",
-              "DocumentMoniker": "M:\\webApi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\Bakery\\Bakery\\Program.cs",
-              "RelativeDocumentMoniker": "Bakery\\Program.cs",
-              "ToolTip": "M:\\webApi-\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2 \u05E1\u05E4\u05E8\u05D0\u05D9\\Bakery\\Bakery\\Program.cs",
-              "RelativeToolTip": "Bakery\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T16:06:48.957Z"
             },
             {
               "$type": "Document",

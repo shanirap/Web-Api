@@ -7,11 +7,11 @@ using System.Threading.Tasks;
 namespace DTOs
 {
     public record ProductDto(
-        int Id =0,
-        string CategoryName =null,
-        string ProductName = null,
-        string ProductDescription = null,
-        int ? Price = null,
-        string ImagePath = null
+        int Id ,
+        string CategoryName,
+        string ProductName ,
+        string ProductDescription ,
+        int ? Price ,
+        string ImagePath
     );
 }
