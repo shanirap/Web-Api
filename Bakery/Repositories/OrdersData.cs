@@ -18,7 +18,7 @@ namespace Repositories
         }
         public async Task<List<Order>> getOrders()
         {
-            return await dBContext.Orders.ToListAsync<Order>();
+            return await dBContext.Orders.Include(o => o.OrderItems).ToListAsync<Order>();
         }
         public async Task addOrder(Order order)
         {

@@ -52,6 +52,7 @@ namespace Bakery.Controllers
         {
             if (user is null)
                 return StatusCode(400, "user is required");
+           
             try
             {
                 await userServices.register(user);

@@ -33,6 +33,10 @@ namespace Services
         {
             try
             {
+                if (registerUserDto.Username.Length < 3)
+                    throw new HttpStatusException(400, "username must be at least 3 letters");
+                if(registerUserDto.Username.Equals(registerUserDto.Password))
+                    throw new HttpStatusException(400, "password isn't safe");
                 if (validatepasswordStrong(registerUserDto.Password) > 2)
                 {
                     User user = autoMapping.Map<User>(registerUserDto);
