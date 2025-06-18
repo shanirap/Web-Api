@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "M:\\webApi-אלישבע ספראי\\Bakery\\Bakery\\Bakery.csproj": {}
+    "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\Bakery.csproj": {}
   },
   "projects": {
-    "M:\\webApi-אלישבע ספראי\\Bakery\\Bakery\\Bakery.csproj": {
+    "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\Bakery.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "M:\\webApi-אלישבע ספראי\\Bakery\\Bakery\\Bakery.csproj",
+        "projectUniqueName": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\Bakery.csproj",
         "projectName": "Bakery",
-        "projectPath": "M:\\webApi-אלישבע ספראי\\Bakery\\Bakery\\Bakery.csproj",
-        "packagesPath": "C:\\Users\\215587544\\.nuget\\packages\\",
-        "outputPath": "M:\\webApi-אלישבע ספראי\\Bakery\\Bakery\\obj\\",
+        "projectPath": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\Bakery.csproj",
+        "packagesPath": "C:\\Users\\משפחת ספראי\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\215587544\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\משפחת ספראי\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,24 +27,23 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "M:\\webApi-אלישבע ספראי\\Bakery\\DTOs\\DTOs.csproj": {
-                "projectPath": "M:\\webApi-אלישבע ספראי\\Bakery\\DTOs\\DTOs.csproj"
+              "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\DTOs\\DTOs.csproj": {
+                "projectPath": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\DTOs\\DTOs.csproj"
               },
-              "M:\\webApi-אלישבע ספראי\\Bakery\\Entities\\Entities.csproj": {
-                "projectPath": "M:\\webApi-אלישבע ספראי\\Bakery\\Entities\\Entities.csproj"
+              "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Entities\\Entities.csproj"
               },
-              "M:\\webApi-אלישבע ספראי\\Bakery\\Repositories\\Repositories.csproj": {
-                "projectPath": "M:\\webApi-אלישבע ספראי\\Bakery\\Repositories\\Repositories.csproj"
+              "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Repositories\\Repositories.csproj": {
+                "projectPath": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Repositories\\Repositories.csproj"
               },
-              "M:\\webApi-אלישבע ספראי\\Bakery\\Services\\Services.csproj": {
-                "projectPath": "M:\\webApi-אלישבע ספראי\\Bakery\\Services\\Services.csproj"
+              "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Services\\Services.csproj": {
+                "projectPath": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Services\\Services.csproj"
               }
             }
           }
@@ -71,6 +71,14 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[9.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.6, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -104,20 +112,21 @@
         }
       }
     },
-    "M:\\webApi-אלישבע ספראי\\Bakery\\DTOs\\DTOs.csproj": {
+    "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\DTOs\\DTOs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "M:\\webApi-אלישבע ספראי\\Bakery\\DTOs\\DTOs.csproj",
+        "projectUniqueName": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\DTOs\\DTOs.csproj",
         "projectName": "DTOs",
-        "projectPath": "M:\\webApi-אלישבע ספראי\\Bakery\\DTOs\\DTOs.csproj",
-        "packagesPath": "C:\\Users\\215587544\\.nuget\\packages\\",
-        "outputPath": "M:\\webApi-אלישבע ספראי\\Bakery\\DTOs\\obj\\",
+        "projectPath": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\DTOs\\DTOs.csproj",
+        "packagesPath": "C:\\Users\\משפחת ספראי\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\DTOs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\215587544\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\משפחת ספראי\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -126,7 +135,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -176,20 +184,21 @@
         }
       }
     },
-    "M:\\webApi-אלישבע ספראי\\Bakery\\Entities\\Entities.csproj": {
+    "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "M:\\webApi-אלישבע ספראי\\Bakery\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "M:\\webApi-אלישבע ספראי\\Bakery\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\215587544\\.nuget\\packages\\",
-        "outputPath": "M:\\webApi-אלישבע ספראי\\Bakery\\Entities\\obj\\",
+        "projectPath": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\משפחת ספראי\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\215587544\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\משפחת ספראי\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -198,7 +207,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -252,20 +260,21 @@
         }
       }
     },
-    "M:\\webApi-אלישבע ספראי\\Bakery\\Repositories\\Repositories.csproj": {
+    "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Repositories\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "M:\\webApi-אלישבע ספראי\\Bakery\\Repositories\\Repositories.csproj",
+        "projectUniqueName": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Repositories\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "M:\\webApi-אלישבע ספראי\\Bakery\\Repositories\\Repositories.csproj",
-        "packagesPath": "C:\\Users\\215587544\\.nuget\\packages\\",
-        "outputPath": "M:\\webApi-אלישבע ספראי\\Bakery\\Repositories\\obj\\",
+        "projectPath": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Repositories\\Repositories.csproj",
+        "packagesPath": "C:\\Users\\משפחת ספראי\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\215587544\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\משפחת ספראי\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -274,15 +283,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "M:\\webApi-אלישבע ספראי\\Bakery\\Entities\\Entities.csproj": {
-                "projectPath": "M:\\webApi-אלישבע ספראי\\Bakery\\Entities\\Entities.csproj"
+              "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Entities\\Entities.csproj"
               }
             }
           }
@@ -328,20 +336,21 @@
         }
       }
     },
-    "M:\\webApi-אלישבע ספראי\\Bakery\\Services\\Services.csproj": {
+    "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "M:\\webApi-אלישבע ספראי\\Bakery\\Services\\Services.csproj",
+        "projectUniqueName": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "M:\\webApi-אלישבע ספראי\\Bakery\\Services\\Services.csproj",
-        "packagesPath": "C:\\Users\\215587544\\.nuget\\packages\\",
-        "outputPath": "M:\\webApi-אלישבע ספראי\\Bakery\\Services\\obj\\",
+        "projectPath": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\משפחת ספראי\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\215587544\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\משפחת ספראי\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -350,21 +359,20 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "M:\\webApi-אלישבע ספראי\\Bakery\\DTOs\\DTOs.csproj": {
-                "projectPath": "M:\\webApi-אלישבע ספראי\\Bakery\\DTOs\\DTOs.csproj"
+              "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\DTOs\\DTOs.csproj": {
+                "projectPath": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\DTOs\\DTOs.csproj"
               },
-              "M:\\webApi-אלישבע ספראי\\Bakery\\Entities\\Entities.csproj": {
-                "projectPath": "M:\\webApi-אלישבע ספראי\\Bakery\\Entities\\Entities.csproj"
+              "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Entities\\Entities.csproj"
               },
-              "M:\\webApi-אלישבע ספראי\\Bakery\\Repositories\\Repositories.csproj": {
-                "projectPath": "M:\\webApi-אלישבע ספראי\\Bakery\\Repositories\\Repositories.csproj"
+              "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Repositories\\Repositories.csproj": {
+                "projectPath": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Repositories\\Repositories.csproj"
               }
             }
           }

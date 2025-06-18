@@ -1,0 +1,103 @@
+﻿vbody {
+    font-family: "Segoe UI", sans-serif;
+    background: linear-gradient(to right, #d1f2eb, #e8f8f5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    direction: rtl;
+}
+
+html, body {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.form-container {
+    background-color: #ffffff;
+    padding: 40px 30px;
+    border-radius: 16px;
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.08);
+    width: 400px;
+    transition: all 0.3s ease-in-out;
+}
+
+    .form-container:hover {
+        position: center;
+        transform: translateY(-2px);
+        box-shadow: 0 18px 36px rgba(0, 0, 0, 0.1);
+    }
+
+h2 {
+    text-align: center;
+    color: #145a32;
+    font-size: 24px;
+    margin-bottom: 30px;
+}
+
+label {
+    display: block;
+    margin-top: 18px;
+    font-weight: 600;
+    color: #2d4032;
+    font-size: 14px;
+}
+
+input {
+    width: 100%;
+    padding: 12px;
+    margin-top: 6px;
+    border: 1px solid #c8e6c9;
+    border-radius: 8px;
+    box-sizing: border-box;
+    font-size: 15px;
+    transition: border-color 0.2s;
+}
+
+    input:focus {
+        border-color: #26a69a;
+        outline: none;
+    }
+
+button {
+    margin-top: 30px;
+    width: 100%;
+    padding: 12px;
+    background: linear-gradient(to right, #26a69a, #1abc9c);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background 0.3s ease-in-out, transform 0.1s ease;
+}
+
+    button:hover {
+        background: linear-gradient(to right, #1abc9c, #16a085);
+        transform: scale(1.02);
+    }
+
+hr {
+    margin: 40px 0 30px;
+    border: 0;
+    border-top: 1px solid #d0f0e6;
+}
+
+a {
+    color: #26a69a;
+    text-decoration: none;
+    font-size: 14px;
+    display: inline-block;
+    margin-top: 12px;
+    text-align: center;
+    width: 100%;
+}
+
+    a:hover {
+        text-decoration: underline;
+    }

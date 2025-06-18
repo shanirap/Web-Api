@@ -1,12 +1,5 @@
-﻿<!DOCTYPE html>
-<html>
-<head>
-    <script src="Home.js"></script>
-    <meta charset="utf-8" />
-    <title></title>
-</head>
-<body>
-    <label for="user_name">user name</label>
+﻿
+    <!--<label for="user_name">user name</label>
     <input type="text" id="user_name" />
     <label for="psw">password</label>
     <input type="text" id="psw" />
@@ -32,8 +25,53 @@
     <input type="text" id="Ufirst_name" />
     <label for="Ulast_name">last name</label>
     <input type="text" id="Ulast_name" />
-    <button onclick="upDate()">update</button>
+    <button onclick="upDate()">update</button>-->
 
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>הרשמה והתחברות</title>
+        <link rel="stylesheet" href="home.css" />
+        <script defer src="Home.js"></script>
+    </head>
+    <body>
+        <div class="form-container">
+            <h2>הרשמה</h2>
+            <label for="user_name">שם משתמש</label>
+            <input type="text" id="user_name" />
+            <label for="psw">סיסמה</label>
+            <input type="password" id="psw" />
+            <label for="first_name">שם פרטי</label>
+            <input type="text" id="first_name" />
+            <label for="last_name">שם משפחה</label>
+            <input type="text" id="last_name" />
+            <button onclick="Register()">הירשם</button>
+            <button onclick="checkPasswordStrong()">בדוק חוזק סיסמה</button>
 
-</body>
+            <hr />
+
+            <h2>התחברות</h2>
+            <label for="Luser_name">שם משתמש</label>
+            <input type="text" id="Luser_name" />
+            <label for="Lpsw">סיסמה</label>
+            <input type="password" id="Lpsw" />
+            <button onclick="login()">התחבר</button>
+        </div>
+    </body>
 </html>
+
+
+
+<!--<div class="section hidden" id="updateSection">
+    <h3>עדכון משתמש</h3>
+    <label for="Uuser_name">User name</label>
+    <input type="text" id="Uuser_name" />
+    <label for="Upsw">Password</label>
+    <input type="text" id="Upsw" />
+    <label for="Ufirst_name">First name</label>
+    <input type="text" id="Ufirst_name" />
+    <label for="Ulast_name">Last name</label>
+    <input type="text" id="Ulast_name" />
+    <button onclick="upDate()">Update</button>
+</div>-->

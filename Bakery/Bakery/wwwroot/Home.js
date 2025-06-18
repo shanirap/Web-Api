@@ -63,6 +63,8 @@ const login = async () => {
     console.log(userDetails)
     if (response.ok) {
         alert(userName + " login succes")
+        localStorage.setItem("userId", userDetails.id)
+        window.location.href = "updatepage.html";
     }
     else {
         alert("Unauthorized")

@@ -22,3 +22,16 @@ M:\webApi-אלישבע ספראי\Bakery\Entities\obj\Debug\net9.0\Entities.dll
 M:\webApi-אלישבע ספראי\Bakery\Entities\obj\Debug\net9.0\refint\Entities.dll
 M:\webApi-אלישבע ספראי\Bakery\Entities\obj\Debug\net9.0\Entities.pdb
 M:\webApi-אלישבע ספראי\Bakery\Entities\obj\Debug\net9.0\ref\Entities.dll
+C:\Users\משפחת ספראי\Desktop\Bakery\Bakery\Entities\bin\Debug\net9.0\Entities.deps.json
+C:\Users\משפחת ספראי\Desktop\Bakery\Bakery\Entities\bin\Debug\net9.0\Entities.dll
+C:\Users\משפחת ספראי\Desktop\Bakery\Bakery\Entities\bin\Debug\net9.0\Entities.pdb
+C:\Users\משפחת ספראי\Desktop\Bakery\Bakery\Entities\obj\Debug\net9.0\Entities.csproj.AssemblyReference.cache
+C:\Users\משפחת ספראי\Desktop\Bakery\Bakery\Entities\obj\Debug\net9.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משפחת ספראי\Desktop\Bakery\Bakery\Entities\obj\Debug\net9.0\Entities.AssemblyInfoInputs.cache
+C:\Users\משפחת ספראי\Desktop\Bakery\Bakery\Entities\obj\Debug\net9.0\Entities.AssemblyInfo.cs
+C:\Users\משפחת ספראי\Desktop\Bakery\Bakery\Entities\obj\Debug\net9.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\משפחת ספראי\Desktop\Bakery\Bakery\Entities\obj\Debug\net9.0\Entities.sourcelink.json
+C:\Users\משפחת ספראי\Desktop\Bakery\Bakery\Entities\obj\Debug\net9.0\Entities.dll
+C:\Users\משפחת ספראי\Desktop\Bakery\Bakery\Entities\obj\Debug\net9.0\refint\Entities.dll
+C:\Users\משפחת ספראי\Desktop\Bakery\Bakery\Entities\obj\Debug\net9.0\Entities.pdb
+C:\Users\משפחת ספראי\Desktop\Bakery\Bakery\Entities\obj\Debug\net9.0\ref\Entities.dll

@@ -2778,23 +2778,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\215587544\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\משפחת ספראי\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "M:\\webApi-אלישבע ספראי\\Bakery\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "M:\\webApi-אלישבע ספראי\\Bakery\\Entities\\Entities.csproj",
-      "packagesPath": "C:\\Users\\215587544\\.nuget\\packages\\",
-      "outputPath": "M:\\webApi-אלישבע ספראי\\Bakery\\Entities\\obj\\",
+      "projectPath": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Entities\\Entities.csproj",
+      "packagesPath": "C:\\Users\\משפחת ספראי\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\215587544\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\משפחת ספראי\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2803,7 +2805,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

@@ -1,12 +1,20 @@
 {
   "Files": [
     {
-      "Id": "M:\\webApi-אלישבע ספראי\\Bakery\\Bakery\\wwwroot\\Home.html",
+      "Id": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\wwwroot\\Home.html",
       "PackagePath": "staticwebassets\\Home.html"
     },
     {
-      "Id": "M:\\webApi-אלישבע ספראי\\Bakery\\Bakery\\wwwroot\\Home.js",
+      "Id": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\wwwroot\\Home.js",
       "PackagePath": "staticwebassets\\Home.js"
+    },
+    {
+      "Id": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\wwwroot\\home.css",
+      "PackagePath": "staticwebassets\\home.css"
+    },
+    {
+      "Id": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\wwwroot\\updatepage.html",
+      "PackagePath": "staticwebassets\\updatepage.html"
     },
     {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Bakery.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

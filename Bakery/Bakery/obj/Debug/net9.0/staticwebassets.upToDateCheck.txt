@@ -1,4 +1,8 @@
-M:\webApi-אלישבע ספראי\Bakery\Bakery\wwwroot\Home.html
-M:\webApi-אלישבע ספראי\Bakery\Bakery\wwwroot\Home.js
+C:\Users\משפחת ספראי\Desktop\Bakery\Bakery\Bakery\wwwroot\home.css
+C:\Users\משפחת ספראי\Desktop\Bakery\Bakery\Bakery\wwwroot\Home.html
+C:\Users\משפחת ספראי\Desktop\Bakery\Bakery\Bakery\wwwroot\Home.js
+C:\Users\משפחת ספראי\Desktop\Bakery\Bakery\Bakery\wwwroot\updatepage.html
+wwwroot\home.css
 wwwroot\Home.html
 wwwroot\Home.js
+wwwroot\updatepage.html
