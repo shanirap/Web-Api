@@ -15,7 +15,7 @@ builder.Services.AddScoped<IOrdersData, OrdersData>();
 
 
 
-builder.Services.AddDbContext<BakeryDBContext>(options => options.UseSqlServer("Data Source=SRV2\\PUPILS; Initial Catalog=elishevaDB; Integrated Security=True; Trust Server Certificate=True"));
+builder.Services.AddDbContext<BakeryDBContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 // Add services to the container.
 

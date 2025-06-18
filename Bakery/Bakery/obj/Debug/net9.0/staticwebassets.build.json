@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QaKFD6pkbV8YOgQ+abQWFFR+kWFtPaHdo4ZCE3lZ/X0=",
+  "Hash": "sPauMhgHkYbSLY9grKbajyfU/t//YW8a0zoROjk21uc=",
   "Source": "Bakery",
   "BasePath": "_content/Bakery",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\97sp1xjevu-8l77i0341j.gz",
+      "Identity": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\97sp1xjevu-grtqhnfhzn.gz",
       "SourceId": "Bakery",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Bakery",
-      "RelativePath": "home#[.{fingerprint=8l77i0341j}]?.css.gz",
+      "RelativePath": "home#[.{fingerprint=grtqhnfhzn}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -31,19 +31,19 @@
       "RelatedAsset": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\wwwroot\\home.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "hhcbcxrsiv",
-      "Integrity": "9XPeSdXs/5E3jvE/x+DGMVtAj8miCreT701cwvzCpHI=",
+      "Fingerprint": "oqqhwosdmj",
+      "Integrity": "YN7+pdngI9yevhru2G7F87GvGbPfQTwYkrbg1fjj7e0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\wwwroot\\home.css"
     },
     {
-      "Identity": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\jktenh644w-6inacoqqov.gz",
+      "Identity": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\jktenh644w-2afxrcpgy9.gz",
       "SourceId": "Bakery",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Bakery",
-      "RelativePath": "Home#[.{fingerprint=6inacoqqov}]?.html.gz",
+      "RelativePath": "Home#[.{fingerprint=2afxrcpgy9}]?.html.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -52,8 +52,8 @@
       "RelatedAsset": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\wwwroot\\Home.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "hoqwgsy5po",
-      "Integrity": "Ea+LMhx/30Fy0Okxn5HwPqaW6X8Cti2AwrWHSUJFJ78=",
+      "Fingerprint": "qpkh0xdk4k",
+      "Integrity": "HndAl8AYAi1W8yqWmSqc8mQnaQ+yvhS7BzRWq+XelP8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\wwwroot\\Home.html"
@@ -80,12 +80,12 @@
       "OriginalItemSpec": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\wwwroot\\Home.js"
     },
     {
-      "Identity": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\o13ke47zac-erxv0c3igs.gz",
+      "Identity": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\o13ke47zac-o7v7eao8v3.gz",
       "SourceId": "Bakery",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Bakery",
-      "RelativePath": "updatepage#[.{fingerprint=erxv0c3igs}]?.html.gz",
+      "RelativePath": "updatepage#[.{fingerprint=o7v7eao8v3}]?.html.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -94,8 +94,8 @@
       "RelatedAsset": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\wwwroot\\updatepage.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "53yqz1gwvk",
-      "Integrity": "7ympmr5YwzuOgHgYO5HCmxhBbqJT/TrplVWuVzqP7zg=",
+      "Fingerprint": "hha1xjxrd1",
+      "Integrity": "q1f0lQI6W/6PsQ3Kr4Owfh7WWvEniVzCqS1O1ni+fJk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\wwwroot\\updatepage.html"
@@ -115,8 +115,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "8l77i0341j",
-      "Integrity": "1FuqczHIUjK/l3j7r4G7A7JnsUQq3W7tBz6pQLclNm8=",
+      "Fingerprint": "grtqhnfhzn",
+      "Integrity": "1EmB1TrwME+gE4HFFbbpTKouKhvJRh0ExzsDjtqI3iM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\home.css"
@@ -136,8 +136,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "6inacoqqov",
-      "Integrity": "gl7XRxdf/TXAlvvrDROq8nj3emrTbtpxe1BxHxcuddA=",
+      "Fingerprint": "2afxrcpgy9",
+      "Integrity": "ZvnBXsT0j9/WJTx4XyHnZfxLu0p3Mx0Kyix6YoBVFxw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Home.html"
@@ -178,8 +178,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "erxv0c3igs",
-      "Integrity": "qhwE5392/2ZcwMqYg6mH5HCDpMygX1RRZq5VWfHAQA8=",
+      "Fingerprint": "o7v7eao8v3",
+      "Integrity": "PLACUC/uKyerGitrGkfcYWW0poi96GPaJPtr3JKIICE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\updatepage.html"
@@ -187,13 +187,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "Home.6inacoqqov.html",
-      "AssetFile": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\jktenh644w-6inacoqqov.gz",
+      "Route": "Home.2afxrcpgy9.html",
+      "AssetFile": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\jktenh644w-2afxrcpgy9.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001447178003"
+          "Quality": "0.001445086705"
         }
       ],
       "ResponseHeaders": [
@@ -203,15 +203,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "690"
+          "Value": "691"
         },
         {
           "Name": "ETag",
-          "Value": "\"Ea+LMhx/30Fy0Okxn5HwPqaW6X8Cti2AwrWHSUJFJ78=\""
+          "Value": "\"HndAl8AYAi1W8yqWmSqc8mQnaQ+yvhS7BzRWq+XelP8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Jun 2025 13:42:53 GMT"
+          "Value": "Wed, 18 Jun 2025 14:14:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -231,13 +231,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"gl7XRxdf/TXAlvvrDROq8nj3emrTbtpxe1BxHxcuddA=\""
+          "Value": "W/\"ZvnBXsT0j9/WJTx4XyHnZfxLu0p3Mx0Kyix6YoBVFxw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6inacoqqov"
+          "Value": "2afxrcpgy9"
         },
         {
           "Name": "label",
@@ -245,12 +245,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-gl7XRxdf/TXAlvvrDROq8nj3emrTbtpxe1BxHxcuddA="
+          "Value": "sha256-ZvnBXsT0j9/WJTx4XyHnZfxLu0p3Mx0Kyix6YoBVFxw="
         }
       ]
     },
     {
-      "Route": "Home.6inacoqqov.html",
+      "Route": "Home.2afxrcpgy9.html",
       "AssetFile": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\wwwroot\\Home.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -260,7 +260,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2919"
+          "Value": "2917"
         },
         {
           "Name": "Content-Type",
@@ -268,11 +268,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"gl7XRxdf/TXAlvvrDROq8nj3emrTbtpxe1BxHxcuddA=\""
+          "Value": "\"ZvnBXsT0j9/WJTx4XyHnZfxLu0p3Mx0Kyix6YoBVFxw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Jun 2025 13:42:53 GMT"
+          "Value": "Wed, 18 Jun 2025 14:14:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -282,7 +282,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6inacoqqov"
+          "Value": "2afxrcpgy9"
         },
         {
           "Name": "label",
@@ -290,13 +290,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-gl7XRxdf/TXAlvvrDROq8nj3emrTbtpxe1BxHxcuddA="
+          "Value": "sha256-ZvnBXsT0j9/WJTx4XyHnZfxLu0p3Mx0Kyix6YoBVFxw="
         }
       ]
     },
     {
-      "Route": "Home.6inacoqqov.html.gz",
-      "AssetFile": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\jktenh644w-6inacoqqov.gz",
+      "Route": "Home.2afxrcpgy9.html.gz",
+      "AssetFile": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\jktenh644w-2afxrcpgy9.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -305,7 +305,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "690"
+          "Value": "691"
         },
         {
           "Name": "Content-Type",
@@ -313,11 +313,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Ea+LMhx/30Fy0Okxn5HwPqaW6X8Cti2AwrWHSUJFJ78=\""
+          "Value": "\"HndAl8AYAi1W8yqWmSqc8mQnaQ+yvhS7BzRWq+XelP8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Jun 2025 13:42:53 GMT"
+          "Value": "Wed, 18 Jun 2025 14:14:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -335,7 +335,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6inacoqqov"
+          "Value": "2afxrcpgy9"
         },
         {
           "Name": "label",
@@ -343,18 +343,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Ea+LMhx/30Fy0Okxn5HwPqaW6X8Cti2AwrWHSUJFJ78="
+          "Value": "sha256-HndAl8AYAi1W8yqWmSqc8mQnaQ+yvhS7BzRWq+XelP8="
         }
       ]
     },
     {
-      "Route": "home.8l77i0341j.css",
-      "AssetFile": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\97sp1xjevu-8l77i0341j.gz",
+      "Route": "home.css",
+      "AssetFile": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\97sp1xjevu-grtqhnfhzn.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001434720230"
+          "Quality": "0.001386962552"
         }
       ],
       "ResponseHeaders": [
@@ -364,19 +364,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "696"
+          "Value": "720"
         },
         {
           "Name": "ETag",
-          "Value": "\"9XPeSdXs/5E3jvE/x+DGMVtAj8miCreT701cwvzCpHI=\""
+          "Value": "\"YN7+pdngI9yevhru2G7F87GvGbPfQTwYkrbg1fjj7e0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Jun 2025 14:11:06 GMT"
+          "Value": "Wed, 18 Jun 2025 14:44:35 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -392,26 +392,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"1FuqczHIUjK/l3j7r4G7A7JnsUQq3W7tBz6pQLclNm8=\""
+          "Value": "W/\"1EmB1TrwME+gE4HFFbbpTKouKhvJRh0ExzsDjtqI3iM=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "8l77i0341j"
-        },
-        {
-          "Name": "label",
-          "Value": "home.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-1FuqczHIUjK/l3j7r4G7A7JnsUQq3W7tBz6pQLclNm8="
+          "Value": "sha256-1EmB1TrwME+gE4HFFbbpTKouKhvJRh0ExzsDjtqI3iM="
         }
       ]
     },
     {
-      "Route": "home.8l77i0341j.css",
+      "Route": "home.css",
       "AssetFile": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\wwwroot\\home.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -421,7 +413,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1919"
+          "Value": "2062"
         },
         {
           "Name": "Content-Type",
@@ -429,11 +421,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1FuqczHIUjK/l3j7r4G7A7JnsUQq3W7tBz6pQLclNm8=\""
+          "Value": "\"1EmB1TrwME+gE4HFFbbpTKouKhvJRh0ExzsDjtqI3iM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Jun 2025 14:11:06 GMT"
+          "Value": "Wed, 18 Jun 2025 14:44:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1EmB1TrwME+gE4HFFbbpTKouKhvJRh0ExzsDjtqI3iM="
+        }
+      ]
+    },
+    {
+      "Route": "home.css.gz",
+      "AssetFile": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\97sp1xjevu-grtqhnfhzn.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YN7+pdngI9yevhru2G7F87GvGbPfQTwYkrbg1fjj7e0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 14:44:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YN7+pdngI9yevhru2G7F87GvGbPfQTwYkrbg1fjj7e0="
+        }
+      ]
+    },
+    {
+      "Route": "home.grtqhnfhzn.css",
+      "AssetFile": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\97sp1xjevu-grtqhnfhzn.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001386962552"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "720"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YN7+pdngI9yevhru2G7F87GvGbPfQTwYkrbg1fjj7e0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 14:44:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"1EmB1TrwME+gE4HFFbbpTKouKhvJRh0ExzsDjtqI3iM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "grtqhnfhzn"
+        },
+        {
+          "Name": "label",
+          "Value": "home.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1EmB1TrwME+gE4HFFbbpTKouKhvJRh0ExzsDjtqI3iM="
+        }
+      ]
+    },
+    {
+      "Route": "home.grtqhnfhzn.css",
+      "AssetFile": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\wwwroot\\home.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2062"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1EmB1TrwME+gE4HFFbbpTKouKhvJRh0ExzsDjtqI3iM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 14:44:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -443,7 +580,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8l77i0341j"
+          "Value": "grtqhnfhzn"
         },
         {
           "Name": "label",
@@ -451,13 +588,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-1FuqczHIUjK/l3j7r4G7A7JnsUQq3W7tBz6pQLclNm8="
+          "Value": "sha256-1EmB1TrwME+gE4HFFbbpTKouKhvJRh0ExzsDjtqI3iM="
         }
       ]
     },
     {
-      "Route": "home.8l77i0341j.css.gz",
-      "AssetFile": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\97sp1xjevu-8l77i0341j.gz",
+      "Route": "home.grtqhnfhzn.css.gz",
+      "AssetFile": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\97sp1xjevu-grtqhnfhzn.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -466,7 +603,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "696"
+          "Value": "720"
         },
         {
           "Name": "Content-Type",
@@ -474,11 +611,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9XPeSdXs/5E3jvE/x+DGMVtAj8miCreT701cwvzCpHI=\""
+          "Value": "\"YN7+pdngI9yevhru2G7F87GvGbPfQTwYkrbg1fjj7e0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Jun 2025 14:11:06 GMT"
+          "Value": "Wed, 18 Jun 2025 14:44:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -496,7 +633,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8l77i0341j"
+          "Value": "grtqhnfhzn"
         },
         {
           "Name": "label",
@@ -504,155 +641,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-9XPeSdXs/5E3jvE/x+DGMVtAj8miCreT701cwvzCpHI="
-        }
-      ]
-    },
-    {
-      "Route": "home.css",
-      "AssetFile": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\97sp1xjevu-8l77i0341j.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001434720230"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "696"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"9XPeSdXs/5E3jvE/x+DGMVtAj8miCreT701cwvzCpHI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 18 Jun 2025 14:11:06 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"1FuqczHIUjK/l3j7r4G7A7JnsUQq3W7tBz6pQLclNm8=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-1FuqczHIUjK/l3j7r4G7A7JnsUQq3W7tBz6pQLclNm8="
-        }
-      ]
-    },
-    {
-      "Route": "home.css",
-      "AssetFile": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\wwwroot\\home.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1919"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"1FuqczHIUjK/l3j7r4G7A7JnsUQq3W7tBz6pQLclNm8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 18 Jun 2025 14:11:06 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-1FuqczHIUjK/l3j7r4G7A7JnsUQq3W7tBz6pQLclNm8="
-        }
-      ]
-    },
-    {
-      "Route": "home.css.gz",
-      "AssetFile": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\97sp1xjevu-8l77i0341j.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "696"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"9XPeSdXs/5E3jvE/x+DGMVtAj8miCreT701cwvzCpHI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 18 Jun 2025 14:11:06 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-9XPeSdXs/5E3jvE/x+DGMVtAj8miCreT701cwvzCpHI="
+          "Value": "sha256-YN7+pdngI9yevhru2G7F87GvGbPfQTwYkrbg1fjj7e0="
         }
       ]
     },
     {
       "Route": "Home.html",
-      "AssetFile": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\jktenh644w-6inacoqqov.gz",
+      "AssetFile": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\jktenh644w-2afxrcpgy9.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001447178003"
+          "Quality": "0.001445086705"
         }
       ],
       "ResponseHeaders": [
@@ -662,15 +662,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "690"
+          "Value": "691"
         },
         {
           "Name": "ETag",
-          "Value": "\"Ea+LMhx/30Fy0Okxn5HwPqaW6X8Cti2AwrWHSUJFJ78=\""
+          "Value": "\"HndAl8AYAi1W8yqWmSqc8mQnaQ+yvhS7BzRWq+XelP8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Jun 2025 13:42:53 GMT"
+          "Value": "Wed, 18 Jun 2025 14:14:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -690,13 +690,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"gl7XRxdf/TXAlvvrDROq8nj3emrTbtpxe1BxHxcuddA=\""
+          "Value": "W/\"ZvnBXsT0j9/WJTx4XyHnZfxLu0p3Mx0Kyix6YoBVFxw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-gl7XRxdf/TXAlvvrDROq8nj3emrTbtpxe1BxHxcuddA="
+          "Value": "sha256-ZvnBXsT0j9/WJTx4XyHnZfxLu0p3Mx0Kyix6YoBVFxw="
         }
       ]
     },
@@ -711,7 +711,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2919"
+          "Value": "2917"
         },
         {
           "Name": "Content-Type",
@@ -719,11 +719,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"gl7XRxdf/TXAlvvrDROq8nj3emrTbtpxe1BxHxcuddA=\""
+          "Value": "\"ZvnBXsT0j9/WJTx4XyHnZfxLu0p3Mx0Kyix6YoBVFxw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Jun 2025 13:42:53 GMT"
+          "Value": "Wed, 18 Jun 2025 14:14:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -733,13 +733,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-gl7XRxdf/TXAlvvrDROq8nj3emrTbtpxe1BxHxcuddA="
+          "Value": "sha256-ZvnBXsT0j9/WJTx4XyHnZfxLu0p3Mx0Kyix6YoBVFxw="
         }
       ]
     },
     {
       "Route": "Home.html.gz",
-      "AssetFile": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\jktenh644w-6inacoqqov.gz",
+      "AssetFile": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\jktenh644w-2afxrcpgy9.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -748,7 +748,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "690"
+          "Value": "691"
         },
         {
           "Name": "Content-Type",
@@ -756,11 +756,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Ea+LMhx/30Fy0Okxn5HwPqaW6X8Cti2AwrWHSUJFJ78=\""
+          "Value": "\"HndAl8AYAi1W8yqWmSqc8mQnaQ+yvhS7BzRWq+XelP8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Jun 2025 13:42:53 GMT"
+          "Value": "Wed, 18 Jun 2025 14:14:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -778,7 +778,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Ea+LMhx/30Fy0Okxn5HwPqaW6X8Cti2AwrWHSUJFJ78="
+          "Value": "sha256-HndAl8AYAi1W8yqWmSqc8mQnaQ+yvhS7BzRWq+XelP8="
         }
       ]
     },
@@ -1081,13 +1081,13 @@
       ]
     },
     {
-      "Route": "updatepage.erxv0c3igs.html",
-      "AssetFile": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\o13ke47zac-erxv0c3igs.gz",
+      "Route": "updatepage.html",
+      "AssetFile": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\o13ke47zac-o7v7eao8v3.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002577319588"
+          "Quality": "0.002570694087"
         }
       ],
       "ResponseHeaders": [
@@ -1097,19 +1097,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "387"
+          "Value": "388"
         },
         {
           "Name": "ETag",
-          "Value": "\"7ympmr5YwzuOgHgYO5HCmxhBbqJT/TrplVWuVzqP7zg=\""
+          "Value": "\"q1f0lQI6W/6PsQ3Kr4Owfh7WWvEniVzCqS1O1ni+fJk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Jun 2025 13:44:13 GMT"
+          "Value": "Wed, 18 Jun 2025 17:14:35 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -1125,26 +1125,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"qhwE5392/2ZcwMqYg6mH5HCDpMygX1RRZq5VWfHAQA8=\""
+          "Value": "W/\"PLACUC/uKyerGitrGkfcYWW0poi96GPaJPtr3JKIICE=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "erxv0c3igs"
-        },
-        {
-          "Name": "label",
-          "Value": "updatepage.html"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-qhwE5392/2ZcwMqYg6mH5HCDpMygX1RRZq5VWfHAQA8="
+          "Value": "sha256-PLACUC/uKyerGitrGkfcYWW0poi96GPaJPtr3JKIICE="
         }
       ]
     },
     {
-      "Route": "updatepage.erxv0c3igs.html",
+      "Route": "updatepage.html",
       "AssetFile": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\wwwroot\\updatepage.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1154,7 +1146,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "795"
+          "Value": "793"
         },
         {
           "Name": "Content-Type",
@@ -1162,11 +1154,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"qhwE5392/2ZcwMqYg6mH5HCDpMygX1RRZq5VWfHAQA8=\""
+          "Value": "\"PLACUC/uKyerGitrGkfcYWW0poi96GPaJPtr3JKIICE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Jun 2025 13:44:13 GMT"
+          "Value": "Wed, 18 Jun 2025 17:14:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PLACUC/uKyerGitrGkfcYWW0poi96GPaJPtr3JKIICE="
+        }
+      ]
+    },
+    {
+      "Route": "updatepage.html.gz",
+      "AssetFile": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\o13ke47zac-o7v7eao8v3.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "388"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q1f0lQI6W/6PsQ3Kr4Owfh7WWvEniVzCqS1O1ni+fJk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 17:14:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-q1f0lQI6W/6PsQ3Kr4Owfh7WWvEniVzCqS1O1ni+fJk="
+        }
+      ]
+    },
+    {
+      "Route": "updatepage.o7v7eao8v3.html",
+      "AssetFile": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\o13ke47zac-o7v7eao8v3.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002570694087"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "388"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q1f0lQI6W/6PsQ3Kr4Owfh7WWvEniVzCqS1O1ni+fJk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 17:14:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"PLACUC/uKyerGitrGkfcYWW0poi96GPaJPtr3JKIICE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o7v7eao8v3"
+        },
+        {
+          "Name": "label",
+          "Value": "updatepage.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PLACUC/uKyerGitrGkfcYWW0poi96GPaJPtr3JKIICE="
+        }
+      ]
+    },
+    {
+      "Route": "updatepage.o7v7eao8v3.html",
+      "AssetFile": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\wwwroot\\updatepage.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PLACUC/uKyerGitrGkfcYWW0poi96GPaJPtr3JKIICE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 17:14:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1176,7 +1313,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "erxv0c3igs"
+          "Value": "o7v7eao8v3"
         },
         {
           "Name": "label",
@@ -1184,13 +1321,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-qhwE5392/2ZcwMqYg6mH5HCDpMygX1RRZq5VWfHAQA8="
+          "Value": "sha256-PLACUC/uKyerGitrGkfcYWW0poi96GPaJPtr3JKIICE="
         }
       ]
     },
     {
-      "Route": "updatepage.erxv0c3igs.html.gz",
-      "AssetFile": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\o13ke47zac-erxv0c3igs.gz",
+      "Route": "updatepage.o7v7eao8v3.html.gz",
+      "AssetFile": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\o13ke47zac-o7v7eao8v3.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1199,7 +1336,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "387"
+          "Value": "388"
         },
         {
           "Name": "Content-Type",
@@ -1207,11 +1344,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7ympmr5YwzuOgHgYO5HCmxhBbqJT/TrplVWuVzqP7zg=\""
+          "Value": "\"q1f0lQI6W/6PsQ3Kr4Owfh7WWvEniVzCqS1O1ni+fJk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Jun 2025 13:44:13 GMT"
+          "Value": "Wed, 18 Jun 2025 17:14:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1229,7 +1366,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "erxv0c3igs"
+          "Value": "o7v7eao8v3"
         },
         {
           "Name": "label",
@@ -1237,144 +1374,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-7ympmr5YwzuOgHgYO5HCmxhBbqJT/TrplVWuVzqP7zg="
-        }
-      ]
-    },
-    {
-      "Route": "updatepage.html",
-      "AssetFile": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\o13ke47zac-erxv0c3igs.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.002577319588"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "387"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"7ympmr5YwzuOgHgYO5HCmxhBbqJT/TrplVWuVzqP7zg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 18 Jun 2025 13:44:13 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"qhwE5392/2ZcwMqYg6mH5HCDpMygX1RRZq5VWfHAQA8=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-qhwE5392/2ZcwMqYg6mH5HCDpMygX1RRZq5VWfHAQA8="
-        }
-      ]
-    },
-    {
-      "Route": "updatepage.html",
-      "AssetFile": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\wwwroot\\updatepage.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "795"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"qhwE5392/2ZcwMqYg6mH5HCDpMygX1RRZq5VWfHAQA8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 18 Jun 2025 13:44:13 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-qhwE5392/2ZcwMqYg6mH5HCDpMygX1RRZq5VWfHAQA8="
-        }
-      ]
-    },
-    {
-      "Route": "updatepage.html.gz",
-      "AssetFile": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\o13ke47zac-erxv0c3igs.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "387"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"7ympmr5YwzuOgHgYO5HCmxhBbqJT/TrplVWuVzqP7zg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 18 Jun 2025 13:44:13 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-7ympmr5YwzuOgHgYO5HCmxhBbqJT/TrplVWuVzqP7zg="
+          "Value": "sha256-q1f0lQI6W/6PsQ3Kr4Owfh7WWvEniVzCqS1O1ni+fJk="
         }
       ]
     }

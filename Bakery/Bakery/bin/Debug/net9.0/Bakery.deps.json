@@ -12,7 +12,6 @@
           "DTOs": "1.0.0",
           "Entities": "1.0.0",
           "Microsoft.AspNetCore.OpenApi": "9.0.5",
-          "Microsoft.EntityFrameworkCore": "9.0.6",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.6",
           "Repositories": "1.0.0",
           "Services": "1.0.0",
