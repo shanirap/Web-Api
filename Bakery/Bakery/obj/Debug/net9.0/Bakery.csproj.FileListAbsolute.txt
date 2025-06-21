@@ -303,7 +303,7 @@ C:\Users\משפחת ספראי\Desktop\Bakery\Bakery\Bakery\obj\Debug\net9.0\ref
 C:\Users\משפחת ספראי\Desktop\Bakery\Bakery\Bakery\obj\Debug\net9.0\Bakery.pdb
 C:\Users\משפחת ספראי\Desktop\Bakery\Bakery\Bakery\obj\Debug\net9.0\Bakery.genruntimeconfig.cache
 C:\Users\משפחת ספראי\Desktop\Bakery\Bakery\Bakery\obj\Debug\net9.0\ref\Bakery.dll
-C:\Users\משפחת ספראי\Desktop\Bakery\Bakery\Bakery\obj\Debug\net9.0\compressed\mr1y3e05c8-v2qbb107jh.gz
 C:\Users\משפחת ספראי\Desktop\Bakery\Bakery\Bakery\obj\Debug\net9.0\compressed\97sp1xjevu-grtqhnfhzn.gz
 C:\Users\משפחת ספראי\Desktop\Bakery\Bakery\Bakery\obj\Debug\net9.0\compressed\jktenh644w-2afxrcpgy9.gz
 C:\Users\משפחת ספראי\Desktop\Bakery\Bakery\Bakery\obj\Debug\net9.0\compressed\o13ke47zac-o7v7eao8v3.gz
+C:\Users\משפחת ספראי\Desktop\Bakery\Bakery\Bakery\obj\Debug\net9.0\compressed\mr1y3e05c8-ssepjrerma.gz

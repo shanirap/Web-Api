@@ -21,11 +21,11 @@ using System.Linq;
 public class OrdersDataEdgeCasesTests : IClassFixture<DatabaseFixture>
     {
         private readonly BakeryDBContext _context;
-        private readonly OrdersData _productsData;
+        private readonly OrdersData _ordersData;
         public OrdersDataEdgeCasesTests(DatabaseFixture fixture)
         {
             _context = fixture.Context;
-            _productsData = new OrdersData(_context);
+            _ordersData = new OrdersData(_context);
         }
 
       
@@ -83,7 +83,7 @@ public class OrdersDataEdgeCasesTests : IClassFixture<DatabaseFixture>
                 var orders = await _context.Orders.Include(o => o.OrderItems).ToListAsync();
                 Assert.Single(orders);
                 Assert.Single(orders[0].OrderItems);
-                Assert.Equal(9999, orders[0].OrderItems[0].ProductId);
+                Assert.Equal(9999, orders[0].OrderItems.First().ProductId);
             }
         }
 

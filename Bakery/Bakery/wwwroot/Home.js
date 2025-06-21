@@ -90,6 +90,7 @@ const upDate = async () => {
         password: password,
         Id:id
     }
+    console.log(user)
 
     const responsePost = await fetch(`api/User/${id}`, {
         method: 'Put',

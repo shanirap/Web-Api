@@ -7,9 +7,12 @@ using System.Threading.Tasks;
 namespace DTOs
 {
     public record RegisterUserDto(
+          
         string FirstName,
         string LastName,
         string Password,
-        string? Username
+        string? Username,
+        int Id
+
     );
 }

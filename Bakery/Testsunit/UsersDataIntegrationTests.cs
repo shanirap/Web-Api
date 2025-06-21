@@ -8,11 +8,11 @@ using Bakery;
 public class UsersDataIntegrationTests : IClassFixture<DatabaseFixture>
 {
     private readonly BakeryDBContext _context;
-    private readonly ProductsData _productsData;
+    private readonly UsersData _usersData;
     public UsersDataIntegrationTests(DatabaseFixture fixture)
     {
         _context = fixture.Context;
-        _productsData = new UsersData(_context);
+        _usersData = new UsersData(_context);
     }
 
 

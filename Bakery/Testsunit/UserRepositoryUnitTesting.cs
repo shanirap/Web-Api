@@ -18,13 +18,13 @@ namespace Testsunit
         [Fact]
         public async Task Login_ReturnsUser_WhenCredentialsAreCorrect()
         {
-            var user = new User { Firstname = "shani", Lastname = "rapoport", Password = "s328308465@", Username = "shani" };
+            var user = new User { Firstname = "Elisheva", Lastname = "Safray", Password = "eli7saf@abc", Username = "Elisheva" };
             var mockContext = new Mock<BakeryDBContext>();
             var users = new List<User>() { user };
             mockContext.Setup(x => x.Users).ReturnsDbSet(users);
             var userRepository = new UsersData(mockContext.Object);
-            LoginUser luser = new LoginUser(user.Username, user.Password);
-            var result = await userRepository.Login(luser);
+            //LoginUser luser = new LoginUser(user.Username, user.Password);
+            var result = await userRepository.Login(user);
             Assert.Equal(user, result);
         }
         [Fact]

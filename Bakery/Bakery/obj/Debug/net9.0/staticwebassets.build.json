@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sPauMhgHkYbSLY9grKbajyfU/t//YW8a0zoROjk21uc=",
+  "Hash": "taLTasdh52eVmzKWF0hZ88kCy9bVbQbmd/NrP2+vekk=",
   "Source": "Bakery",
   "BasePath": "_content/Bakery",
   "Mode": "Default",
@@ -59,12 +59,12 @@
       "OriginalItemSpec": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\wwwroot\\Home.html"
     },
     {
-      "Identity": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\mr1y3e05c8-v2qbb107jh.gz",
+      "Identity": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\mr1y3e05c8-ssepjrerma.gz",
       "SourceId": "Bakery",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Bakery",
-      "RelativePath": "Home#[.{fingerprint=v2qbb107jh}]?.js.gz",
+      "RelativePath": "Home#[.{fingerprint=ssepjrerma}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -73,8 +73,8 @@
       "RelatedAsset": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\wwwroot\\Home.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "7ho0ts29kl",
-      "Integrity": "Ffd3iLqL0234vCRrzcHk9pGC0oVtiweQGzjjP6h8NXE=",
+      "Fingerprint": "axwao4wijf",
+      "Integrity": "0hIFjAWY85HSKebdBpatrDg3KTa1ndSR32+RLIYmD+A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\wwwroot\\Home.js"
@@ -157,8 +157,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "v2qbb107jh",
-      "Integrity": "x6dnM8GD5GNmcnGkvqKyfuo2HgiGy9PbpMCQgbbXl0s=",
+      "Fingerprint": "ssepjrerma",
+      "Integrity": "1An2ai9DrZnKYy9C7Gz/RDhuibLSIL+uxdW2LDLvcr4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Home.js"
@@ -784,12 +784,12 @@
     },
     {
       "Route": "Home.js",
-      "AssetFile": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\mr1y3e05c8-v2qbb107jh.gz",
+      "AssetFile": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\mr1y3e05c8-ssepjrerma.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001344086022"
+          "Quality": "0.001329787234"
         }
       ],
       "ResponseHeaders": [
@@ -799,15 +799,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "743"
+          "Value": "751"
         },
         {
           "Name": "ETag",
-          "Value": "\"Ffd3iLqL0234vCRrzcHk9pGC0oVtiweQGzjjP6h8NXE=\""
+          "Value": "\"0hIFjAWY85HSKebdBpatrDg3KTa1ndSR32+RLIYmD+A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Jun 2025 13:49:23 GMT"
+          "Value": "Wed, 18 Jun 2025 18:28:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -827,13 +827,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"x6dnM8GD5GNmcnGkvqKyfuo2HgiGy9PbpMCQgbbXl0s=\""
+          "Value": "W/\"1An2ai9DrZnKYy9C7Gz/RDhuibLSIL+uxdW2LDLvcr4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-x6dnM8GD5GNmcnGkvqKyfuo2HgiGy9PbpMCQgbbXl0s="
+          "Value": "sha256-1An2ai9DrZnKYy9C7Gz/RDhuibLSIL+uxdW2LDLvcr4="
         }
       ]
     },
@@ -848,7 +848,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3312"
+          "Value": "3335"
         },
         {
           "Name": "Content-Type",
@@ -856,11 +856,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"x6dnM8GD5GNmcnGkvqKyfuo2HgiGy9PbpMCQgbbXl0s=\""
+          "Value": "\"1An2ai9DrZnKYy9C7Gz/RDhuibLSIL+uxdW2LDLvcr4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Jun 2025 13:49:23 GMT"
+          "Value": "Wed, 18 Jun 2025 18:28:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -870,13 +870,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-x6dnM8GD5GNmcnGkvqKyfuo2HgiGy9PbpMCQgbbXl0s="
+          "Value": "sha256-1An2ai9DrZnKYy9C7Gz/RDhuibLSIL+uxdW2LDLvcr4="
         }
       ]
     },
     {
       "Route": "Home.js.gz",
-      "AssetFile": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\mr1y3e05c8-v2qbb107jh.gz",
+      "AssetFile": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\mr1y3e05c8-ssepjrerma.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -885,7 +885,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "743"
+          "Value": "751"
         },
         {
           "Name": "Content-Type",
@@ -893,11 +893,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Ffd3iLqL0234vCRrzcHk9pGC0oVtiweQGzjjP6h8NXE=\""
+          "Value": "\"0hIFjAWY85HSKebdBpatrDg3KTa1ndSR32+RLIYmD+A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Jun 2025 13:49:23 GMT"
+          "Value": "Wed, 18 Jun 2025 18:28:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -915,18 +915,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Ffd3iLqL0234vCRrzcHk9pGC0oVtiweQGzjjP6h8NXE="
+          "Value": "sha256-0hIFjAWY85HSKebdBpatrDg3KTa1ndSR32+RLIYmD+A="
         }
       ]
     },
     {
-      "Route": "Home.v2qbb107jh.js",
-      "AssetFile": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\mr1y3e05c8-v2qbb107jh.gz",
+      "Route": "Home.ssepjrerma.js",
+      "AssetFile": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\mr1y3e05c8-ssepjrerma.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001344086022"
+          "Quality": "0.001329787234"
         }
       ],
       "ResponseHeaders": [
@@ -936,15 +936,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "743"
+          "Value": "751"
         },
         {
           "Name": "ETag",
-          "Value": "\"Ffd3iLqL0234vCRrzcHk9pGC0oVtiweQGzjjP6h8NXE=\""
+          "Value": "\"0hIFjAWY85HSKebdBpatrDg3KTa1ndSR32+RLIYmD+A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Jun 2025 13:49:23 GMT"
+          "Value": "Wed, 18 Jun 2025 18:28:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -964,13 +964,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"x6dnM8GD5GNmcnGkvqKyfuo2HgiGy9PbpMCQgbbXl0s=\""
+          "Value": "W/\"1An2ai9DrZnKYy9C7Gz/RDhuibLSIL+uxdW2LDLvcr4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "v2qbb107jh"
+          "Value": "ssepjrerma"
         },
         {
           "Name": "label",
@@ -978,12 +978,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-x6dnM8GD5GNmcnGkvqKyfuo2HgiGy9PbpMCQgbbXl0s="
+          "Value": "sha256-1An2ai9DrZnKYy9C7Gz/RDhuibLSIL+uxdW2LDLvcr4="
         }
       ]
     },
     {
-      "Route": "Home.v2qbb107jh.js",
+      "Route": "Home.ssepjrerma.js",
       "AssetFile": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\wwwroot\\Home.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -993,7 +993,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3312"
+          "Value": "3335"
         },
         {
           "Name": "Content-Type",
@@ -1001,11 +1001,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"x6dnM8GD5GNmcnGkvqKyfuo2HgiGy9PbpMCQgbbXl0s=\""
+          "Value": "\"1An2ai9DrZnKYy9C7Gz/RDhuibLSIL+uxdW2LDLvcr4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Jun 2025 13:49:23 GMT"
+          "Value": "Wed, 18 Jun 2025 18:28:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1015,7 +1015,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "v2qbb107jh"
+          "Value": "ssepjrerma"
         },
         {
           "Name": "label",
@@ -1023,13 +1023,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-x6dnM8GD5GNmcnGkvqKyfuo2HgiGy9PbpMCQgbbXl0s="
+          "Value": "sha256-1An2ai9DrZnKYy9C7Gz/RDhuibLSIL+uxdW2LDLvcr4="
         }
       ]
     },
     {
-      "Route": "Home.v2qbb107jh.js.gz",
-      "AssetFile": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\mr1y3e05c8-v2qbb107jh.gz",
+      "Route": "Home.ssepjrerma.js.gz",
+      "AssetFile": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\obj\\Debug\\net9.0\\compressed\\mr1y3e05c8-ssepjrerma.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1038,7 +1038,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "743"
+          "Value": "751"
         },
         {
           "Name": "Content-Type",
@@ -1046,11 +1046,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Ffd3iLqL0234vCRrzcHk9pGC0oVtiweQGzjjP6h8NXE=\""
+          "Value": "\"0hIFjAWY85HSKebdBpatrDg3KTa1ndSR32+RLIYmD+A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Jun 2025 13:49:23 GMT"
+          "Value": "Wed, 18 Jun 2025 18:28:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1068,7 +1068,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "v2qbb107jh"
+          "Value": "ssepjrerma"
         },
         {
           "Name": "label",
@@ -1076,7 +1076,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Ffd3iLqL0234vCRrzcHk9pGC0oVtiweQGzjjP6h8NXE="
+          "Value": "sha256-0hIFjAWY85HSKebdBpatrDg3KTa1ndSR32+RLIYmD+A="
         }
       ]
     },
