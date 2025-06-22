@@ -13,7 +13,7 @@ public class DatabaseFixture : IDisposable
 
         Context = new BakeryDBContext(options);
 
-        Context.Database.EnsureDeleted();
+        //Context.Database.EnsureDeleted();
         Context.Database.EnsureCreated();
     }
 
