@@ -26,6 +26,7 @@ namespace Services
 
         public int validatepasswordStrong(string password)
         {
+            // כדאי לשנות ל-PascalCase: ValidatePasswordStrong
             var zxcvbnResult = Zxcvbn.Core.EvaluatePassword(password);
             return zxcvbnResult.Score;
         }
@@ -53,6 +54,7 @@ namespace Services
 
         public async Task<UserDTO> login(LoginUserDTO luserDTO)
         {
+            // כדאי לשנות ל-PascalCase: Login
             try
             {
                User loginUser = mapper.Map<User>(luserDTO);
@@ -69,6 +71,7 @@ namespace Services
 
         public async Task update(int id, RegisterUserDTO userDTO)
         {
+            // כדאי לשנות ל-PascalCase: Update
             try
             {
                 User user = mapper.Map<User>(userDTO);
@@ -88,10 +91,9 @@ namespace Services
         }
         public async Task<List<UserDTO>> getAllUsers()
         {
-
-            List<User> l = await usersData.getAllUsers();
-            List<UserDTO> ll = mapper.Map<List<UserDTO>>(l);
-            return ll;
+            // כדאי לשנות ל-PascalCase: GetAllUsers
+            List<User> users = await usersData.getAllUsers();
+            return mapper.Map<List<UserDTO>>(users);
         }
     }
 }

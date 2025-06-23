@@ -21,11 +21,11 @@ namespace Services
             categoriesData = _categoriesData;
             mapper = _mapper;
         }
-        public async Task<List<CategoryDTO>> getCategory()
+        public async Task<List<CategoryDTO>> getCategory()//GetCategory
         {
-            List<Category> l= await categoriesData.getCategory();
-            List<CategoryDTO> ll = mapper.Map<List<Category>, List<CategoryDTO>>(l);
-            return ll;
+            List<Category> categories = await categoriesData.getCategory();
+            List<CategoryDTO> categoriesDto = mapper.Map<List<Category>, List<CategoryDTO>>(categories);
+            return categoriesDto;
         }
     }
 }

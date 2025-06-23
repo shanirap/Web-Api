@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 using Services;
 using System.Net;
 using System.Text.Json;
+// delete unused code on the entire page.
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -13,6 +14,8 @@ namespace Bakery.Controllers
     [ApiController]
     public class UserController : ControllerBase
     {
+        // הצעה: מקובל לכתוב את השדה עם קו תחתון קטן, ואת הפרמטר בבנאי בשם רגיל
+
         private readonly IUserServices userServices;
         public UserController(IUserServices _userServices)
         {
@@ -22,7 +25,7 @@ namespace Bakery.Controllers
         [HttpGet]
         public async Task<ActionResult<List<UserDTO>>> Get()
         {
-            return await userServices.getAllUsers();
+            return await userServices.getAllUsers();// change to a lowercase letter
         }
 
         // GET api/<UserController>/5
@@ -32,12 +35,12 @@ namespace Bakery.Controllers
             UserDTO user = await userServices.GetUserById(id);
             if (user != null)
             {
-                return Ok(user);
+                user != null;
             }
             else
             {
                 return NoContent();
-            }
+            }//user != null ? user != null : return NoContent();
 
         }
         [HttpPost]

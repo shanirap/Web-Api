@@ -15,7 +15,7 @@ namespace Repositories
         {
             dBContext = udBContext;
         }
-        public async Task<List<Order>> getOrder()
+        public async Task<List<Order>> getOrder()//funtion's name starts with a capital letter - change it
         {
             return await dBContext.Orders.ToListAsync<Order>();
         }
@@ -25,7 +25,7 @@ namespace Repositories
             {
                 await dBContext.Orders.AddAsync(order);
                 await dBContext.SaveChangesAsync();
-
+                //return order;
             }
             catch (Exception e)
             {

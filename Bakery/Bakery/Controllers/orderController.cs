@@ -2,7 +2,7 @@
 using Entities;
 using Microsoft.AspNetCore.Mvc;
 using Services;
-
+//delete unused code
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace Bakery.Controllers
@@ -11,7 +11,7 @@ namespace Bakery.Controllers
     [ApiController]
     public class orderController : ControllerBase
     {
-        private readonly IorderServices OrderServices;
+        private readonly IorderServices OrderServices;//change to a lowercase letter
         public orderController(IorderServices _OrderServices)
         {
             OrderServices = _OrderServices;
@@ -31,7 +31,7 @@ namespace Bakery.Controllers
         {
            
               await OrderServices.Add(order);
- 
+             //return something - order, Ok() or CreatedAtAction() 
         }
 
       

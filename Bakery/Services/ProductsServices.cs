@@ -21,10 +21,8 @@ namespace Services
         }
         public async Task<List<ProductDTO>> getProducts()
         {
-            List<Product> l=await productsData.getProducts();
-            List<ProductDTO> ll = mapper.Map< List<Product>,List<ProductDTO>>(l);
-
-            return ll;
+            List<Product> l=await productsData.getProducts();//Change the variable name.
+            return mapper.Map< List<Product>,List<ProductDTO>>(l);//Change the variable name.
         }
     }
 }

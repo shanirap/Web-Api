@@ -17,6 +17,7 @@ namespace Repositories
         {
             dBContext = usersDBContext;
         }
+        
         public async Task Register(User user)
         {
             try
@@ -25,7 +26,7 @@ namespace Repositories
                     throw new HttpStatusException(409, "username already exist");
                 await dBContext.Users.AddAsync(user);
                 await dBContext.SaveChangesAsync();
-    
+                //return user;
             }
             catch (Exception e)
             {
@@ -37,6 +38,7 @@ namespace Repositories
         {
             return await dBContext.Users.FirstAsync(user => user.Username == loginUser.Username && user.Password == loginUser.Password);
         }
+
         public async Task Update(int id, User user)
         {
             try
@@ -49,11 +51,13 @@ namespace Repositories
                 throw e;
             }
         }
-        public async Task<User> getUserById(int id)
+
+        public async Task<User> getUserById(int id) //funtion's name starts with a capital letter - change it
         {
             return await dBContext.Users.FirstOrDefaultAsync(u => u.Id == id);
         }
-        public async Task<List<User>> getAllUsers()
+
+        public async Task<List<User>> getAllUsers()//funtion's name starts with a capital letter - change it
         {
             return await dBContext.Users.ToListAsync<User>();
         }

@@ -23,9 +23,8 @@ namespace Services
 
         public async Task<List<OrderDTO>> getOrder()
         {
-            List<Order> l=await orderData.getOrder();
-            List<OrderDTO> ll = mapper.Map<List<Order>, List<OrderDTO>>(l);
-            return ll;
+            List<Order> l=await orderData.getOrder();//Change the variable name.
+            return mapper.Map<List<Order>, List<OrderDTO>>(l);//Change the variable name.
         }
         public async Task Add(OrderDTO orderDTO)
         {
