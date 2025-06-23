@@ -15,7 +15,7 @@ namespace Repositories
         {
             dBContext = usersDBContext;
         }
-        public async Task<List<Category>> getCategory()
+        public async Task<List<Category>> getCategory()//funtion's name starts with a capital letter - change it
         {
             return await dBContext.Categories.ToListAsync<Category>();
         }
