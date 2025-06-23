@@ -1,36 +1,37 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Services\\Services.csproj": {}
+    "C:\\Users\\משתמש\\source\\repos\\Bakery\\Bakery\\Services\\Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\DTOs\\DTOs.csproj": {
+    "C:\\Users\\משתמש\\source\\repos\\Bakery\\Bakery\\DTOs\\DTOs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\DTOs\\DTOs.csproj",
+        "projectUniqueName": "C:\\Users\\משתמש\\source\\repos\\Bakery\\Bakery\\DTOs\\DTOs.csproj",
         "projectName": "DTOs",
-        "projectPath": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\DTOs\\DTOs.csproj",
-        "packagesPath": "C:\\Users\\משפחת ספראי\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\DTOs\\obj\\",
+        "projectPath": "C:\\Users\\משתמש\\source\\repos\\Bakery\\Bakery\\DTOs\\DTOs.csproj",
+        "packagesPath": "C:\\Users\\משתמש\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\משתמש\\source\\repos\\Bakery\\Bakery\\DTOs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\משפחת ספראי\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\משתמש\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net90"
+          "net9.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net90": {
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -38,46 +39,71 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
-        "net90": {
+        "net9.0": {
+          "targetAlias": "net9.0",
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
               "version": "[14.0.0, )"
             }
-          }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Entities\\Entities.csproj": {
+    "C:\\Users\\משתמש\\source\\repos\\Bakery\\Bakery\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\משתמש\\source\\repos\\Bakery\\Bakery\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\משפחת ספראי\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Entities\\obj\\",
+        "projectPath": "C:\\Users\\משתמש\\source\\repos\\Bakery\\Bakery\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\משתמש\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\משתמש\\source\\repos\\Bakery\\Bakery\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\משפחת ספראי\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\משתמש\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net90"
+          "net9.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net90": {
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -85,10 +111,17 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
-        "net90": {
+        "net9.0": {
+          "targetAlias": "net9.0",
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
@@ -98,40 +131,58 @@
               "target": "Package",
               "version": "[9.0.3, )"
             }
-          }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Repositories\\Repositories.csproj": {
+    "C:\\Users\\משתמש\\source\\repos\\Bakery\\Bakery\\Repositories\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Repositories\\Repositories.csproj",
+        "projectUniqueName": "C:\\Users\\משתמש\\source\\repos\\Bakery\\Bakery\\Repositories\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Repositories\\Repositories.csproj",
-        "packagesPath": "C:\\Users\\משפחת ספראי\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Repositories\\obj\\",
+        "projectPath": "C:\\Users\\משתמש\\source\\repos\\Bakery\\Bakery\\Repositories\\Repositories.csproj",
+        "packagesPath": "C:\\Users\\משתמש\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\משתמש\\source\\repos\\Bakery\\Bakery\\Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\משפחת ספראי\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\משתמש\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net90"
+          "net9.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net90": {
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Entities\\Entities.csproj"
+              "C:\\Users\\משתמש\\source\\repos\\Bakery\\Bakery\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\משתמש\\source\\repos\\Bakery\\Bakery\\Entities\\Entities.csproj"
               }
             }
           }
@@ -140,55 +191,80 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
-        "net90": {
+        "net9.0": {
+          "targetAlias": "net9.0",
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
               "version": "[14.0.0, )"
             }
-          }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Services\\Services.csproj": {
+    "C:\\Users\\משתמש\\source\\repos\\Bakery\\Bakery\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Services\\Services.csproj",
+        "projectUniqueName": "C:\\Users\\משתמש\\source\\repos\\Bakery\\Bakery\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Services\\Services.csproj",
-        "packagesPath": "C:\\Users\\משפחת ספראי\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Services\\obj\\",
+        "projectPath": "C:\\Users\\משתמש\\source\\repos\\Bakery\\Bakery\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\משתמש\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\משתמש\\source\\repos\\Bakery\\Bakery\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\משפחת ספראי\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\משתמש\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net90"
+          "net9.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net90": {
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\DTOs\\DTOs.csproj": {
-                "projectPath": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\DTOs\\DTOs.csproj"
+              "C:\\Users\\משתמש\\source\\repos\\Bakery\\Bakery\\DTOs\\DTOs.csproj": {
+                "projectPath": "C:\\Users\\משתמש\\source\\repos\\Bakery\\Bakery\\DTOs\\DTOs.csproj"
               },
-              "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Entities\\Entities.csproj"
+              "C:\\Users\\משתמש\\source\\repos\\Bakery\\Bakery\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\משתמש\\source\\repos\\Bakery\\Bakery\\Entities\\Entities.csproj"
               },
-              "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Repositories\\Repositories.csproj": {
-                "projectPath": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Repositories\\Repositories.csproj"
+              "C:\\Users\\משתמש\\source\\repos\\Bakery\\Bakery\\Repositories\\Repositories.csproj": {
+                "projectPath": "C:\\Users\\משתמש\\source\\repos\\Bakery\\Bakery\\Repositories\\Repositories.csproj"
               }
             }
           }
@@ -197,10 +273,17 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
-        "net90": {
+        "net9.0": {
+          "targetAlias": "net9.0",
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
@@ -210,7 +293,24 @@
               "target": "Package",
               "version": "[7.0.92, )"
             }
-          }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

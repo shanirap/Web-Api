@@ -22,13 +22,25 @@ namespace Bakery.Controllers
         [HttpGet]
         public async Task<ActionResult<List<UserDto>>> Get()
         {
-            return await userServices.getUsers();
+            try
+            {
+                return await userServices.getUsers();
+            }
+            catch (HttpStatusException e)
+            {
+                return StatusCode((int)e.StatusCode, e.Message);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
         }
 
         // GET api/<UserController>/5
         [HttpGet("{id}")]
         public async Task<ActionResult<UserDto>> Get(int id)
         {
+
              UserDto user = await userServices.getUserId(id);
             if(user!=null)
             {
@@ -102,3 +114,14 @@ namespace Bakery.Controllers
 
     }
 }
+
+
+
+
+
+
+
+
+
+
+

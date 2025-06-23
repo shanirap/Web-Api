@@ -48,7 +48,7 @@ namespace Repositories
             }
             catch (Exception e)
             {
-                throw;
+                throw e;
             }
 
         }

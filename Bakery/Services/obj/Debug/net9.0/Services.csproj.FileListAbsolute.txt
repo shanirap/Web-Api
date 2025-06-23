@@ -55,3 +55,23 @@ C:\Users\משפחת ספראי\Desktop\Bakery\Bakery\Services\obj\Debug\net9.0\S
 C:\Users\משפחת ספראי\Desktop\Bakery\Bakery\Services\obj\Debug\net9.0\refint\Services.dll
 C:\Users\משפחת ספראי\Desktop\Bakery\Bakery\Services\obj\Debug\net9.0\Services.pdb
 C:\Users\משפחת ספראי\Desktop\Bakery\Bakery\Services\obj\Debug\net9.0\ref\Services.dll
+C:\Users\משתמש\source\repos\Bakery\Bakery\Services\bin\Debug\net9.0\Services.deps.json
+C:\Users\משתמש\source\repos\Bakery\Bakery\Services\bin\Debug\net9.0\Services.dll
+C:\Users\משתמש\source\repos\Bakery\Bakery\Services\bin\Debug\net9.0\Services.pdb
+C:\Users\משתמש\source\repos\Bakery\Bakery\Services\bin\Debug\net9.0\DTOs.dll
+C:\Users\משתמש\source\repos\Bakery\Bakery\Services\bin\Debug\net9.0\Entities.dll
+C:\Users\משתמש\source\repos\Bakery\Bakery\Services\bin\Debug\net9.0\Repositories.dll
+C:\Users\משתמש\source\repos\Bakery\Bakery\Services\bin\Debug\net9.0\DTOs.pdb
+C:\Users\משתמש\source\repos\Bakery\Bakery\Services\bin\Debug\net9.0\Entities.pdb
+C:\Users\משתמש\source\repos\Bakery\Bakery\Services\bin\Debug\net9.0\Repositories.pdb
+C:\Users\משתמש\source\repos\Bakery\Bakery\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+C:\Users\משתמש\source\repos\Bakery\Bakery\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש\source\repos\Bakery\Bakery\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+C:\Users\משתמש\source\repos\Bakery\Bakery\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+C:\Users\משתמש\source\repos\Bakery\Bakery\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\source\repos\Bakery\Bakery\Services\obj\Debug\net9.0\Services.sourcelink.json
+C:\Users\משתמש\source\repos\Bakery\Bakery\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+C:\Users\משתמש\source\repos\Bakery\Bakery\Services\obj\Debug\net9.0\Services.dll
+C:\Users\משתמש\source\repos\Bakery\Bakery\Services\obj\Debug\net9.0\refint\Services.dll
+C:\Users\משתמש\source\repos\Bakery\Bakery\Services\obj\Debug\net9.0\Services.pdb
+C:\Users\משתמש\source\repos\Bakery\Bakery\Services\obj\Debug\net9.0\ref\Services.dll

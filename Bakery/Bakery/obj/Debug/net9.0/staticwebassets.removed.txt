@@ -1,0 +1,4 @@
+C:\Users\משפחת ספראי\Desktop\Bakery\Bakery\Bakery\wwwroot\home.css
+C:\Users\משפחת ספראי\Desktop\Bakery\Bakery\Bakery\wwwroot\Home.html
+C:\Users\משפחת ספראי\Desktop\Bakery\Bakery\Bakery\wwwroot\Home.js
+C:\Users\משפחת ספראי\Desktop\Bakery\Bakery\Bakery\wwwroot\updatepage.html

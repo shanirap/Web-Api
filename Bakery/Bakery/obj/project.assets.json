@@ -3342,25 +3342,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\משפחת ספראי\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\משתמש\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\Bakery.csproj",
+      "projectUniqueName": "C:\\Users\\משתמש\\source\\repos\\Bakery\\Bakery\\Bakery\\Bakery.csproj",
       "projectName": "Bakery",
-      "projectPath": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\Bakery.csproj",
-      "packagesPath": "C:\\Users\\משפחת ספראי\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Bakery\\obj\\",
+      "projectPath": "C:\\Users\\משתמש\\source\\repos\\Bakery\\Bakery\\Bakery\\Bakery.csproj",
+      "packagesPath": "C:\\Users\\משתמש\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\משתמש\\source\\repos\\Bakery\\Bakery\\Bakery\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\משפחת ספראי\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\משתמש\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3369,23 +3367,24 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\DTOs\\DTOs.csproj": {
-              "projectPath": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\DTOs\\DTOs.csproj"
+            "C:\\Users\\משתמש\\source\\repos\\Bakery\\Bakery\\DTOs\\DTOs.csproj": {
+              "projectPath": "C:\\Users\\משתמש\\source\\repos\\Bakery\\Bakery\\DTOs\\DTOs.csproj"
             },
-            "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Entities\\Entities.csproj"
+            "C:\\Users\\משתמש\\source\\repos\\Bakery\\Bakery\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\משתמש\\source\\repos\\Bakery\\Bakery\\Entities\\Entities.csproj"
             },
-            "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Repositories\\Repositories.csproj": {
-              "projectPath": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Repositories\\Repositories.csproj"
+            "C:\\Users\\משתמש\\source\\repos\\Bakery\\Bakery\\Repositories\\Repositories.csproj": {
+              "projectPath": "C:\\Users\\משתמש\\source\\repos\\Bakery\\Bakery\\Repositories\\Repositories.csproj"
             },
-            "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Services\\Services.csproj": {
-              "projectPath": "C:\\Users\\משפחת ספראי\\Desktop\\Bakery\\Bakery\\Services\\Services.csproj"
+            "C:\\Users\\משתמש\\source\\repos\\Bakery\\Bakery\\Services\\Services.csproj": {
+              "projectPath": "C:\\Users\\משתמש\\source\\repos\\Bakery\\Bakery\\Services\\Services.csproj"
             }
           }
         }
@@ -3400,7 +3399,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net9.0": {
@@ -3446,7 +3445,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
